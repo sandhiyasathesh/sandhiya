@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Complete Execution Reports</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link type="text/css" rel="stylesheet"  href="../other_files/styles/jquery.jqplot.min.css"  />
+<link type="text/css" rel="stylesheet"  href="../other_files/styles/content.css"  />
+<link type="text/css" rel="stylesheet"   href="../other_files/styles/layout.css"  />
+<link type="text/css" rel="stylesheet"  href="../other_files/styles/menu.css"  />
+<link type="text/css" rel="stylesheet"  href="../other_files/styles/reportTable.css" />
+<link type="text/css" rel="stylesheet"  href="../other_files/styles/jquery.dataTables.min.css" />
+<script  type="text/javascript" src="../other_files/js/jquery.min.js"></script>
+<script  type="text/javascript" src="../other_files/js/jquery.dataTables.min.js"></script>
+<script  type="text/javascript" src="../other_files/js/jquery.jqplot.min.js"></script>
+<script  type="text/javascript" src="../other_files/js/jqplot.barRenderer.min.js"></script>
+<script  type="text/javascript" src="../other_files/js/jqplot.categoryAxisRenderer.min.js"></script>
+<script  type="text/javascript" src="../other_files/js/jqplot.pointLabels.min.js"></script>
+<script type="text/javascript" src="completeTestReports.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    var results = $('#CompleteExecReports').DataTable({
+        /* Disable initial sort */
+        "aaSorting": []
+    });
+	
+	results.on("draw", drawChart);
+} );
+</script>
+<style type="text/css">
+#chartSize{
+height: 300px;
+margin: 0 auto;
+margin-top: 50px;
+width: 85%;
+border-style: solid;
+border-width: 1px;
+border-color: #B0B0B0;
+display: table;
+/* Shadow for boxes */
+-moz-box-shadow: 0 0 10px #CCCCCC;
+-ms-box-shadow: 0 0 10px #CCCCCC;
+-webkit-box-shadow: 0 0 10px #CCCCCC;
+box-shadow: 0 0 10px #CCCCCC;
+zoom: 1;
+filter: progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=2, Direction=0),
+progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=2, Direction=90),
+progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=2, Direction=180),
+progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=2, Direction=270);
+background-color: white;
+}
+#resultTable tr:hover a { color:#DC143C;}#resultTable tr:hover{ color:#DC143C; }          </style>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<img alt="logo" src="../other_files/images/testingServices.png"/>
+<p>
+</p>
+</div>
+<div id="content">
+<div id="menuholder">
+<ul>
+<li id="first"><a href="../index.html" >Home</a></li>
+<li id="last"><a href="completeTestReports.html" >Complete Execution Reports</a></li>
+</ul>
+</div>
+<div id="mainContent">
+<div id="chartSize">
+<div id="chart" style="height: 270px; width: 100%; margin: 0 auto;margin-top: 20px;"></div>
+</div>
+<div id="resultTable" style="width:85%">
+<table border="1" id="CompleteExecReports" >
+<thead>
+<tr>
+<th>S.No</th>
+<th>Execution</th>
+<th>Total Test Cases</th>
+<th>Total Passed</th>
+<th>Total Failed</th>
+<th>Total Not Run</th>
+<th>Total Stopped</th>
+<th>Execution Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+13
+</td>
+<td>
+<a href="Execution_13/executionReport.html">Execution 13</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 07:12 PM
+</td>
+</tr>
+<tr>
+<td>
+12
+</td>
+<td>
+<a href="Execution_12/executionReport.html">Execution 12</a>
+</td>
+<td>
+1
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+11
+</td>
+<td>
+<a href="Execution_11/executionReport.html">Execution 11</a>
+</td>
+<td>
+1
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+10
+</td>
+<td>
+<a href="Execution_10/executionReport.html">Execution 10</a>
+</td>
+<td>
+1
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+9
+</td>
+<td>
+<a href="Execution_9/executionReport.html">Execution 9</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td>
+<a href="Execution_8/executionReport.html">Execution 8</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+7
+</td>
+<td>
+<a href="Execution_7/executionReport.html">Execution 7</a>
+</td>
+<td>
+1
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+6
+</td>
+<td>
+<a href="Execution_6/executionReport.html">Execution 6</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td>
+<a href="Execution_5/executionReport.html">Execution 5</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+<a href="Execution_4/executionReport.html">Execution 4</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+<a href="Execution_3/executionReport.html">Execution 3</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+<a href="Execution_2/executionReport.html">Execution 2</a>
+</td>
+<td>
+1
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td>
+<a href="Execution_1/executionReport.html">Execution 1</a>
+</td>
+<td>
+1
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+1 - [100.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+0 - [0.0%]
+</td>
+<td>
+15 May 2019 - 06:11 PM
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="footer">
+<p>
+Copyright &#169; 2019 QEdge. All rights reserved.
+&#160; <a href="#" >Privacy Terms</a>
+&#x7C; <a href="#" >Terms of Use</a>
+<br/>
+<br/>
+Note: Best viewed in Google Chrome, Apple Safari, Opera and Mozilla Firefox
+</p>
+<p>
+    </p>
+</div>
+</div>
+</body>
+</html>
