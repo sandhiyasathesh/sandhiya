@@ -1,0 +1,150 @@
+[1557927732.853][INFO]: COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--start-maximized" ],
+            "extensions": [  ]
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--start-maximized" ],
+         "extensions": [  ]
+      }
+   }
+}
+[1557927732.857][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1557927732.858][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1557927732.863][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --ignore-certificate-errors --load-extension="C:\Users\SVELUS~1\AppData\Local\Temp\scoped_dir27304_26108\internal" --log-level=0 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=0 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\SVELUS~1\AppData\Local\Temp\scoped_dir27304_1525" data:,
+[1557927734.245][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1557927735.262][INFO]: RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)",
+      "userDataDir": "C:\\Users\\SVELUS~1\\AppData\\Local\\Temp\\scoped_dir27304_1525"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "goog:chromeOptions": {
+      "debuggerAddress": "localhost:52636"
+   },
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Windows NT",
+   "rotatable": false,
+   "~~~": "..."
+}
+[1557927735.310][INFO]: COMMAND MaximizeWindow {
+   "handle": "current",
+   "windowHandle": "current"
+}
+[1557927735.311][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1557927736.315][INFO]: RESPONSE MaximizeWindow
+[1557927736.318][INFO]: COMMAND DeleteAllCookies {
+
+}
+[1557927736.318][INFO]: Waiting for pending navigations...
+[1557927736.329][INFO]: Done waiting for pending navigations. Status: ok
+[1557927736.351][INFO]: Waiting for pending navigations...
+[1557927736.351][INFO]: Done waiting for pending navigations. Status: ok
+[1557927736.352][INFO]: RESPONSE DeleteAllCookies
+[1557927738.364][INFO]: COMMAND Navigate {
+   "url": "http://www.logitechg.com"
+}
+[1557927738.365][INFO]: Waiting for pending navigations...
+[1557927738.365][INFO]: Done waiting for pending navigations. Status: ok
+[1557927739.595][INFO]: Waiting for pending navigations...
+[1557927747.775][INFO]: Done waiting for pending navigations. Status: ok
+[1557927747.775][INFO]: RESPONSE Navigate
+[1557927747.781][INFO]: COMMAND SetTimeout {
+   "ms": 60000,
+   "type": "implicit"
+}
+[1557927747.781][INFO]: RESPONSE SetTimeout
+[1557927749.825][INFO]: COMMAND ExecuteScript {
+   "args": [  ],
+   "script": "return document.readyState"
+}
+[1557927749.825][INFO]: Waiting for pending navigations...
+[1557927749.826][INFO]: Done waiting for pending navigations. Status: ok
+[1557927749.829][INFO]: Waiting for pending navigations...
+[1557927749.830][INFO]: Done waiting for pending navigations. Status: ok
+[1557927749.830][INFO]: RESPONSE ExecuteScript "complete"
+[1557927751.142][INFO]: COMMAND Quit {
+
+}
+[1557927751.261][INFO]: RESPONSE Quit
