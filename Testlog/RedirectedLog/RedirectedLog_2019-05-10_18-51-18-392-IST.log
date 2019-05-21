@@ -1,0 +1,109 @@
+10May2019 18:51:18.756 [main] iAF_UI.main():118 - Enter
+10May2019 18:51:18.815 [JavaFX Application Thread] iAF_UI.start():47 - Enter
+10May2019 18:51:20.996 [JavaFX Application Thread] iAF_Controller.initialize():1099 - Enter
+10May2019 18:51:21.001 [JavaFX Application Thread] iAF_Controller.initialize():1177 - Integrated Automation Framework (iAF) Launched...
+10May2019 18:51:21.028 [JavaFX Application Thread] iAF_Controller.initialSetup():1252 - Enter
+10May2019 18:51:21.029 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1059 - Enter
+10May2019 18:51:21.049 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1085 - Enter
+10May2019 18:51:21.051 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:51:21.052 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:51:21.121 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:51:21.122 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:51:21.138 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:51:21.138 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:51:21.139 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:51:21.176 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:51:21.285 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:51:21.285 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:51:21.297 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:51:21.298 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:51:21.325 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:51:21.325 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:51:21.348 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:51:21.349 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():2968 - Enter
+10May2019 18:51:21.356 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3079 - Exit
+10May2019 18:51:21.357 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1039 - Enter
+10May2019 18:51:21.358 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1044 - Exit
+10May2019 18:51:21.360 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1637 - Enter
+10May2019 18:51:21.363 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1706 - Exit
+10May2019 18:51:21.364 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2882 - Enter
+10May2019 18:51:21.377 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2916 - Exit
+10May2019 18:51:21.378 [JavaFX Application Thread] iAF_Controller.initialSetup():1361 - Exit
+10May2019 18:51:21.399 [JavaFX Application Thread] iAF_Controller.initialize():1188 - Exit
+10May2019 18:51:24.022 [JavaFX Application Thread] iAF_UI.start():75 - Exit
+10May2019 18:51:42.413 [JavaFX Application Thread] TestDataEditorTabController.initialize():198 - Enter
+10May2019 18:51:42.414 [JavaFX Application Thread] TestDataEditorTabController.setToolBarIcons():153 - Enter
+10May2019 18:51:42.429 [JavaFX Application Thread] TestDataEditorTabController.setToolBarIcons():171 - Exit
+10May2019 18:51:42.433 [JavaFX Application Thread] TestDataEditorTabController.initialize():557 - Exit
+10May2019 18:51:42.442 [JavaFX Application Thread] TestDataEditorTabController.showTabData():569 - Enter params(Directory path :C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData Workbook name : TestDataSheet Sheet name : Data_Login.csv)
+10May2019 18:51:42.443 [JavaFX Application Thread] TestDataEditorTabController.updateTabData():593 - Enter
+10May2019 18:51:42.470 [JavaFX Application Thread] TestDataEditorTabController.updateDataMgr():1316 - Enter
+10May2019 18:51:42.471 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2381 - Enter params(Data_Login.csv, TestDataSheet, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData)
+10May2019 18:51:42.471 [JavaFX Application Thread] TestDataEditorTabController.updateDataMgr():1328 - Exit
+10May2019 18:51:42.472 [JavaFX Application Thread] iAF_Controller.clearDirtyTab():2407 - Enter params(Data_Login.csv, TestDataSheet, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData)
+10May2019 18:51:42.472 [JavaFX Application Thread] TestDataEditorTabController.updateTabData():772 - Exit
+10May2019 18:51:42.473 [JavaFX Application Thread] TestDataEditorTabController.showTabData():588 - Exit
+10May2019 18:51:54.343 [JavaFX Application Thread] TCEditorTabController.initialize():252 - Enter
+10May2019 18:51:54.343 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():213 - Enter
+10May2019 18:51:54.359 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():239 - Exit
+10May2019 18:51:54.360 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():243 - Enter
+10May2019 18:51:54.361 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():44 - Enter
+10May2019 18:51:54.362 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():54 - Exit
+10May2019 18:51:54.362 [JavaFX Application Thread] LibraryActionsLoader.updateActions():58 - Enter
+10May2019 18:51:54.388 [JavaFX Application Thread] LibraryActionsLoader.updateActions():74 - Exit
+10May2019 18:51:54.389 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():247 - Exit
+10May2019 18:51:54.406 [JavaFX Application Thread] TCEditorTabController.initialize():949 - Exit
+10May2019 18:51:54.406 [JavaFX Application Thread] TCEditorTabController.showTabData():953 - Enter
+10May2019 18:51:54.407 [JavaFX Application Thread] TCEditorTabController.showTabData():961 - Enter params(Directory path :C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases Workbook name : CSV_FilesSheet name : file1.csv)
+10May2019 18:51:54.407 [JavaFX Application Thread] TCEditorTabController.updateTabData():995 - Enter
+10May2019 18:51:54.407 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():44 - Enter
+10May2019 18:51:54.408 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():54 - Exit
+10May2019 18:51:54.408 [JavaFX Application Thread] LibraryActionsLoader.updateActions():58 - Enter
+10May2019 18:51:54.409 [JavaFX Application Thread] LibraryActionsLoader.updateActions():74 - Exit
+10May2019 18:51:54.461 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:51:54.462 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2381 - Enter params(file1.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:51:54.462 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:51:54.463 [JavaFX Application Thread] iAF_Controller.clearDirtyTab():2407 - Enter params(file1.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:51:54.463 [JavaFX Application Thread] TCEditorTabController.updateTabData():1099 - Exit
+10May2019 18:51:54.464 [JavaFX Application Thread] TCEditorTabController.showTabData():990 - Exit
+10May2019 18:51:54.464 [JavaFX Application Thread] TCEditorTabController.showTabData():956 - Exit
+10May2019 18:51:56.212 [JavaFX Application Thread] TCEditorTabController.handle():379 - Enter
+10May2019 18:51:56.213 [JavaFX Application Thread] TCEditorTabController.handle():391 - Exit
+10May2019 18:51:57.275 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:51:57.276 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2381 - Enter params(file1.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:51:57.276 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:51:57.278 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:51:57.278 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:51:57.325 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:51:57.326 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:51:58.561 [JavaFX Application Thread] TCEditorTabController.handle():379 - Enter
+10May2019 18:51:58.561 [JavaFX Application Thread] TCEditorTabController.handle():391 - Exit
+10May2019 18:52:05.746 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:05.747 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:07.879 [JavaFX Application Thread] TCEditorTabController.handle():379 - Enter
+10May2019 18:52:07.879 [JavaFX Application Thread] TCEditorTabController.handle():391 - Exit
+10May2019 18:52:09.720 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:09.720 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:09.722 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:09.723 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:09.724 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:09.724 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:09.780 [JavaFX Application Thread] TCEditorTabController.addRowAtEnd():2194 - Enter
+10May2019 18:52:09.780 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:09.781 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:09.781 [JavaFX Application Thread] TCEditorTabController.addRowAtEnd():2199 - Exit
+10May2019 18:52:09.782 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:09.782 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:11.281 [JavaFX Application Thread] TCEditorTabController.handle():379 - Enter
+10May2019 18:52:11.282 [JavaFX Application Thread] TCEditorTabController.handle():391 - Exit
+10May2019 18:52:18.175 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:52:18.176 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:52:28.875 [JavaFX Application Thread] TCEditorTabController.handle():379 - Enter
+10May2019 18:52:28.876 [JavaFX Application Thread] TCEditorTabController.handle():391 - Exit
+10May2019 18:52:59.443 [JavaFX Application Thread] iAF_Controller.closeAction():859 - Enter
+10May2019 18:52:59.444 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3555 - Enter
+10May2019 18:53:04.866 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3584 - Exit
+10May2019 18:53:04.867 [JavaFX Application Thread] iAF_Controller.closeAction():874 - Exit
+10May2019 18:53:07.682 [JavaFX Application Thread] iAF_Controller.closeAction():859 - Enter
+10May2019 18:53:07.682 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3555 - Enter
+10May2019 18:53:08.971 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3584 - Exit

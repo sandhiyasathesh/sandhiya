@@ -1,0 +1,3 @@
+1,open,chrome,https://www.google.co.in,y,Opening browser chrome
+2,typeAndEnter,name=q,{V_Data_UserName},,,
+3,closeBrowser,,,,

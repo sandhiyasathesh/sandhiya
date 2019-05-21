@@ -1,0 +1,119 @@
+13May2019 14:47:06.312 [main] iAF_UI.main():118 - Enter
+13May2019 14:47:06.388 [main] iAF_Controller.executeBatchFile():3503 - Enter
+13May2019 14:47:06.405 [main] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+13May2019 14:47:06.509 [main] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+13May2019 14:47:06.523 [main] SpawnThreads.startExecution():82 - Enter params([file1.csv[CSV_Files]], false)
+13May2019 14:47:06.744 [main] HtmlReporter.createReportsDirectory():171 - Enter
+13May2019 14:47:06.791 [main] HtmlReporter.createReportsPropertiesFile():267 - Enter
+13May2019 14:47:06.792 [main] HtmlReporter.createReportsPropertiesFile():290 - Exit
+13May2019 14:47:06.793 [main] HtmlReporter.createReportsDirectory():262 - Exit
+13May2019 14:47:06.793 [main] UserProperties.readPropertiesFile():184 - Enter
+13May2019 14:47:06.793 [main] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+13May2019 14:47:06.795 [main] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+13May2019 14:47:06.796 [main] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+13May2019 14:47:06.798 [main] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+13May2019 14:47:06.801 [main] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+13May2019 14:47:06.801 [main] UserProperties.readPropertiesFile():187 - Exit
+13May2019 14:47:06.808 [main] SpawnThreads.loadClasses():522 - Enter
+13May2019 14:47:06.809 [main] SpawnThreads.loadClasses():555 - Exit
+13May2019 14:47:06.811 [main] SpawnThreads.startExecution():136 - threadCount updated to : 1
+13May2019 14:47:06.811 [main] SpawnThreads.startSequentialExecution():183 - Enter
+13May2019 14:47:06.838 [main] TestsExecutor.loadCurrentEnvironmentPropertiesFile():3130 - Enter
+13May2019 14:47:06.840 [main] iAF_Controller.updateExeStatusBefore():1029 - Enter
+13May2019 14:47:06.840 [main] TestsExecutor.initiateExecution():725 - Enter
+13May2019 14:47:06.850 [main] TestsExecutor.initiateExecution():726 - testCase : file1.csv[CSV_Files] 
+13May2019 14:47:06.851 [main] TestsExecutor.validateCSVFile():168 - Enter
+13May2019 14:47:06.852 [main] TestsExecutor.validateCSVFile():169 - testCasePath : file1.csv[CSV_Files], isReusable : false 
+13May2019 14:47:07.132 [main] TestsExecutor.initializeObjects():556 - Enter
+13May2019 14:47:07.132 [main] TestsExecutor.initializeObjects():578 - Exit
+13May2019 14:47:07.136 [main] TestsExecutor.updateClsObjs():3182 - Enter
+13May2019 14:47:10.012 [main] TestsExecutor.updateClsObjs():3191 - Exit
+13May2019 14:47:10.013 [main] TestsExecutor.executeTestCase():863 - Enter
+13May2019 14:47:10.013 [main] TestsExecutor.clearDynamicVariables():3116 - Enter
+13May2019 14:47:10.013 [main] TestsExecutor.clearDynamicVariables():3126 - Exit
+13May2019 14:47:10.013 [main] HtmlReporter.setTestCaseDetails():99 - Enter params(Workbook: CSV_Files sheetName : file1.csv)
+13May2019 14:47:10.014 [main] HtmlReporter.setTestCaseDetails():105 - Exit
+13May2019 14:47:10.014 [main] HtmlReporter.createLogs():294 - Enter
+13May2019 14:47:10.021 [main] HtmlReporter.createLogs():483 - Exit
+13May2019 14:47:10.022 [main] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [0, false]
+13May2019 14:47:10.022 [main] BaseLibrary.canExecute():49 - Enter params(1, var)
+13May2019 14:47:10.022 [main] BaseLibrary.canExecute():102 - Exit
+13May2019 14:47:10.023 [main] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, var, x, 10, ] 
+13May2019 14:47:10.038 [main] TestsExecutor.invokeMethods():1544 - meth invoke : var
+13May2019 14:47:10.042 [main] WebLibrary.var():3462 - Enter params(x, 10)
+13May2019 14:47:10.307 [main] WebLibrary.var():3478 - variable x created successfully value is 10
+13May2019 14:47:10.308 [main] HtmlReporter.pass():1520 - Enter params(variable x created successfully value is 10, [Ljava.lang.String;@21a947fe)
+13May2019 14:47:10.308 [main] HtmlReporter.parseMessage():1662 - Enter params(variable x created successfully value is 10, [Ljava.lang.String;@21a947fe)
+13May2019 14:47:10.308 [main] HtmlReporter.parseMessage():1698 - Exit
+13May2019 14:47:10.309 [main] HtmlReporter.log():1829 - Enter params(variable x created successfully value is 10)
+13May2019 14:47:10.405 [main] HtmlReporter.log():1872 - Exit
+13May2019 14:47:10.406 [main] HtmlReporter.pass():1525 - Exit
+13May2019 14:47:10.406 [main] WebLibrary.var():3490 - Exit
+13May2019 14:47:10.408 [main] TestsExecutor.invokeMethods():1605 - Exit
+13May2019 14:47:10.409 [main] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [1, false]
+13May2019 14:47:10.413 [main] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : CSV_Files, File: file1.csv
+13May2019 14:47:10.414 [main] HtmlReporter.createLogsFooter():488 - Enter params(Mon May 13 14:47:10 IST 2019, Mon May 13 14:47:10 IST 2019)
+13May2019 14:47:10.416 [main] HtmlReporter.getExecutionTime():594 - Enter params(401)
+13May2019 14:47:10.416 [main] HtmlReporter.getExecutionTime():611 - Exit
+13May2019 14:47:10.417 [main] HtmlReporter.writeFooter():574 - Enter
+13May2019 14:47:10.418 [main] HtmlReporter.writeFooter():589 - Exit
+13May2019 14:47:10.419 [main] HtmlReporter.createLogsFooter():543 - Exit
+13May2019 14:47:10.419 [main] ReporterImpl.setStaticFields():135 - Enter
+13May2019 14:47:10.420 [main] HtmlReporter.setStaticFields():547 - Enter params(html setStaticFields=======>passed :Mon May 13 14:47:10 IST 2019 :Mon May 13 14:47:10 IST 2019 :0)
+13May2019 14:47:10.420 [main] HtmlReporter.setStaticFields():570 - Exit
+13May2019 14:47:10.420 [main] TestsExecutor.executeTestCase():1245 - Exit
+13May2019 14:47:10.420 [main] TestsExecutor.initiateExecution():783 - Exit
+13May2019 14:47:10.421 [main] iAF_Controller.updateExeStatusAfter():1044 - Enter
+13May2019 14:47:10.421 [main] SpawnThreads.startSequentialExecution():197 - Exit
+13May2019 14:47:10.421 [main] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+13May2019 14:47:10.423 [main] HtmlReporter.createExecutionReports():617 - Enter params(Mon May 13 14:47:06 IST 2019, Mon May 13 14:47:10 IST 2019)
+13May2019 14:47:10.426 [main] JSReporter.pieChartWriter():232 - Enter
+13May2019 14:47:10.433 [main] JSReporter.pieChartWriter():264 - Exit
+13May2019 14:47:10.440 [main] HtmlReporter.getExecutionTime():594 - Enter params(401)
+13May2019 14:47:10.441 [main] HtmlReporter.getExecutionTime():611 - Exit
+13May2019 14:47:10.441 [main] HtmlReporter.getExecutionTime():594 - Enter params(3612)
+13May2019 14:47:10.442 [main] HtmlReporter.getExecutionTime():611 - Exit
+13May2019 14:47:10.442 [main] HtmlReporter.writeFooter():574 - Enter
+13May2019 14:47:10.442 [main] HtmlReporter.writeFooter():589 - Exit
+13May2019 14:47:10.443 [main] HtmlReporter.createExecutionReports():822 - Exit
+13May2019 14:47:10.443 [main] HtmlReporter.createCompleteExecutionReports():826 - Enter
+13May2019 14:47:11.479 [main] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+13May2019 14:47:11.480 [main] HtmlReporter.getPercentages():1207 - Exit
+13May2019 14:47:11.530 [main] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+13May2019 14:47:11.530 [main] HtmlReporter.getPercentages():1207 - Exit
+13May2019 14:47:11.570 [main] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+13May2019 14:47:11.570 [main] HtmlReporter.getPercentages():1207 - Exit
+13May2019 14:47:11.638 [main] HtmlReporter.getPercentages():1160 - Enter params(Passed value :0 Failed value : 1 Skipped value :0 Stopped Value :0)
+13May2019 14:47:11.639 [main] HtmlReporter.getPercentages():1207 - Exit
+13May2019 14:47:11.640 [main] HtmlReporter.writeFooter():574 - Enter
+13May2019 14:47:11.640 [main] HtmlReporter.writeFooter():589 - Exit
+13May2019 14:47:11.641 [main] JSReporter.barChartWriter():269 - Enter
+13May2019 14:47:11.646 [main] JSReporter.barChartWriter():513 - Exit
+13May2019 14:47:11.647 [main] HtmlReporter.updateReportsPropertiesFile():1211 - Enter
+13May2019 14:47:11.681 [main] HtmlReporter.updateReportsPropertiesFile():1266 - Exit
+13May2019 14:47:11.681 [main] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+13May2019 14:47:11.682 [main] HtmlReporter.totalExecutionSummary():1271 - Enter
+13May2019 14:47:11.682 [main] HtmlReporter.totalExecutionSummary():1278 - Passed testcase list: file1.csv[CSV_Files\file1.csv]; 
+13May2019 14:47:11.683 [main] HtmlReporter.totalExecutionSummary():1284 - Failed testcase list:
+13May2019 14:47:11.683 [main] HtmlReporter.totalExecutionSummary():1285 - Exit
+13May2019 14:47:11.683 [main] HtmlReporter.createCompleteExecutionReports():1156 - Exit
+13May2019 14:47:11.683 [main] HtmlReporter.createDashboard():1289 - Enter params(Mon May 13 14:47:06 IST 2019, Mon May 13 14:47:10 IST 2019)
+13May2019 14:47:11.687 [main] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+13May2019 14:47:11.688 [main] HtmlReporter.getPercentages():1207 - Exit
+13May2019 14:47:11.689 [main] HtmlReporter.getExecutionTime():594 - Enter params(3612)
+13May2019 14:47:11.690 [main] HtmlReporter.getExecutionTime():611 - Exit
+13May2019 14:47:11.690 [main] HtmlReporter.writeFooter():574 - Enter
+13May2019 14:47:11.691 [main] HtmlReporter.writeFooter():589 - Exit
+13May2019 14:47:11.691 [main] HtmlReporter.createDashboard():1390 - Exit
+13May2019 14:47:11.691 [main] HtmlReporter.clearFields():122 - Enter
+13May2019 14:47:11.692 [main] HtmlReporter.clearFields():167 - Exit
+13May2019 14:47:11.692 [main] SpawnThreads.startExecution():155 - Reports generation Completed.
+13May2019 14:47:11.694 [main] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+13May2019 14:47:11.701 [main] SpawnThreads.initiateWebDriversCleanUp():593 - Enter
+13May2019 14:47:11.704 [main] TestsExecutor.initiateWebDriverCleanUp():3160 - Enter
+13May2019 14:47:11.719 [main] WebLibrary.quitBrowserCleanUp():3026 - Enter
+13May2019 14:47:11.720 [main] WebLibrary.quitBrowserCleanUp():3033 - Exit
+13May2019 14:47:11.721 [main] TestsExecutor.initiateWebDriverCleanUp():3178 - Exit
+13May2019 14:47:11.721 [main] SpawnThreads.initiateWebDriversCleanUp():602 - Exit
+13May2019 14:47:11.721 [main] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...
+13May2019 14:47:11.723 [main] SpawnThreads.startExecution():179 - Exit

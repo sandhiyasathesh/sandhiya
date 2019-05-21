@@ -1,0 +1,6 @@
+15May2019 13:51:51.277 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1143 - Enter
+15May2019 13:51:51.280 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1169 - Enter
+15May2019 13:51:51.282 [JavaFX Application Thread] UserProperties.readPropertiesFile():188 - Enter
+15May2019 13:51:51.282 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():221 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+15May2019 13:51:51.293 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():546 - Error occured while reading KeywordDriven.properties Error Message:BrowserStack username is not specified
+15May2019 13:51:51.298 [JavaFX Application Thread] iAF_Controller.initialSetup():1373 - ERROR : Unable to load KeywordDriven.properties...

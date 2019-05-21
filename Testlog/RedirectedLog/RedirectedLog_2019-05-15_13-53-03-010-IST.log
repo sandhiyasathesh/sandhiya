@@ -1,0 +1,5 @@
+15May2019 13:53:03.295 [main] iAF_UI.main():118 - Enter
+15May2019 13:53:03.367 [JavaFX Application Thread] iAF_UI.start():47 - Enter
+15May2019 13:53:05.013 [JavaFX Application Thread] iAF_Controller.initialize():1183 - Enter
+15May2019 13:53:05.016 [JavaFX Application Thread] iAF_Controller.initialize():1261 - Integrated Automation Framework (iAF) Launched...
+15May2019 13:53:05.097 [JavaFX Application Thread] iAF_Controller.initialSetup():1336 - Enter

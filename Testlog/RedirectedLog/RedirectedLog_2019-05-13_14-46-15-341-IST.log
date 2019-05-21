@@ -1,0 +1,58 @@
+13May2019 14:46:15.560 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1109 - Enter
+13May2019 14:46:15.564 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1135 - Enter
+13May2019 14:46:15.757 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+13May2019 14:46:15.759 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+13May2019 14:46:16.010 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+13May2019 14:46:16.099 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+13May2019 14:46:16.128 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+13May2019 14:46:16.130 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+13May2019 14:46:16.131 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+13May2019 14:46:16.463 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:17.135 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:17.136 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:17.233 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:17.235 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:17.278 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:17.279 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:17.748 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:17.749 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3019 - Enter
+13May2019 14:46:17.753 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3130 - Exit
+13May2019 14:46:17.754 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1089 - Enter
+13May2019 14:46:17.754 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1094 - Exit
+13May2019 14:46:17.755 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1688 - Enter
+13May2019 14:46:17.757 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1757 - Exit
+13May2019 14:46:17.758 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2933 - Enter
+13May2019 14:46:17.823 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2967 - Exit
+13May2019 14:46:17.824 [JavaFX Application Thread] iAF_Controller.initialSetup():1412 - Exit
+13May2019 14:46:17.839 [JavaFX Application Thread] iAF_Controller.initialize():1238 - Exit
+13May2019 14:46:23.003 [JavaFX Application Thread] iAF_UI.start():75 - Exit
+13May2019 14:46:31.902 [JavaFX Application Thread] iAF_Controller.batchCreationCheckboxActionPerformed():726 - Enter
+13May2019 14:46:31.903 [JavaFX Application Thread] iAF_Controller.createBatchFile():3384 - Enter
+13May2019 14:46:31.903 [JavaFX Application Thread] iAF_Controller.getSelectedSheets():2977 - Enter
+13May2019 14:46:31.904 [JavaFX Application Thread] iAF_Controller.getSelectedSheets():2988 - Exit
+13May2019 14:46:31.904 [JavaFX Application Thread] iAF_Controller.getBatchFileName():3410 - Enter
+13May2019 14:46:36.927 [JavaFX Application Thread] iAF_Controller.checkFileExists():3456 - Enter params(OMK.bat)
+13May2019 14:46:36.928 [JavaFX Application Thread] iAF_Controller.checkFileExists():3463 - Exit from checkFileExists()
+13May2019 14:46:46.398 [JavaFX Application Thread] iAF_Controller.checkFileExists():3456 - Enter params(Om_rk.bat)
+13May2019 14:46:46.399 [JavaFX Application Thread] iAF_Controller.checkFileExists():3463 - Exit from checkFileExists()
+13May2019 14:46:46.400 [JavaFX Application Thread] iAF_Controller.getBatchFileName():3447 - Exit
+13May2019 14:46:46.400 [JavaFX Application Thread] iAF_Controller.writeToBatchFile():3320 - Enter params(filename-Om_rk.bat)
+13May2019 14:46:46.402 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.402 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.403 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.403 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.403 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.404 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.404 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.405 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.405 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.406 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.406 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.407 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.408 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.409 [JavaFX Application Thread] iAF_Controller.loadSelectedCSVSheets():3223 - Enter
+13May2019 14:46:46.410 [JavaFX Application Thread] iAF_Controller.writeToBatchFile():3369 - Exit
+13May2019 14:46:46.411 [JavaFX Application Thread] iAF_Controller.createBatchFile():3402 - Exit
+13May2019 14:46:46.411 [JavaFX Application Thread] iAF_Controller.initialize():1149 - Enter
+13May2019 14:46:46.412 [JavaFX Application Thread] iAF_Controller.initialize():1227 - Integrated Automation Framework (iAF) Launched...
+13May2019 14:46:46.431 [JavaFX Application Thread] iAF_Controller.initialSetup():1302 - Enter

@@ -1,0 +1,19 @@
+15May2019 14:25:57.925 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 14:25:57.926 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : aaaaaaaaa.csv[aaaaaaa/aaaaaaaa] 
+15May2019 14:25:57.926 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : aaaaaaaaa.csv[aaaaaaa/aaaaaaaa], isReusable : false 
+15May2019 14:25:57.927 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : Test&test, isReusable : true 
+15May2019 14:25:57.930 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, callFunction, Test&test, , ] 
+15May2019 14:25:57.932 [iAF Main Thread] TestsExecutor.callFunction():1611 - reusableSheet : Test&test 
+15May2019 14:25:57.934 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, open, chrome, http://www.google.com, ] 
+15May2019 14:25:57.935 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+15May2019 14:26:08.361 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, typeAndEnter, name=q, Techmahindra, ] 
+15May2019 14:26:08.362 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : typeAndEnter
+15May2019 14:26:09.818 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, closeBrowser, , , ] 
+15May2019 14:26:09.819 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : closeBrowser
+15May2019 14:26:12.134 [iAF Main Thread] WebLibrary.closeBrowser():3849 - Browser Close Successful
+15May2019 14:26:12.136 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : aaaaaaa/aaaaaaaa, File: aaaaaaaaa.csv
+15May2019 14:26:12.138 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 14:26:12.202 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 14:26:12.203 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 14:26:12.219 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 14:26:12.816 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

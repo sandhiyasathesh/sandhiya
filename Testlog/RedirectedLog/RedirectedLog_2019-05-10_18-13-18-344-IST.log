@@ -1,0 +1,754 @@
+10May2019 18:13:18.598 [main] iAF_UI.main():118 - Enter
+10May2019 18:13:18.873 [JavaFX Application Thread] iAF_UI.start():47 - Enter
+10May2019 18:13:21.100 [JavaFX Application Thread] iAF_Controller.initialize():1099 - Enter
+10May2019 18:13:21.105 [JavaFX Application Thread] iAF_Controller.initialize():1177 - Integrated Automation Framework (iAF) Launched...
+10May2019 18:13:21.142 [JavaFX Application Thread] iAF_Controller.initialSetup():1252 - Enter
+10May2019 18:13:21.143 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1059 - Enter
+10May2019 18:13:21.150 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1085 - Enter
+10May2019 18:13:21.228 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:13:21.229 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:13:21.293 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:13:21.294 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:13:21.296 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:13:21.297 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:13:21.297 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:13:21.324 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:13:21.343 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:13:21.343 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:13:21.346 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:13:21.347 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:13:21.349 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:13:21.350 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:13:21.352 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:13:21.353 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():2968 - Enter
+10May2019 18:13:21.362 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3079 - Exit
+10May2019 18:13:21.363 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1039 - Enter
+10May2019 18:13:21.364 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1044 - Exit
+10May2019 18:13:21.364 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1637 - Enter
+10May2019 18:13:21.366 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1706 - Exit
+10May2019 18:13:21.367 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2882 - Enter
+10May2019 18:13:21.378 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2916 - Exit
+10May2019 18:13:21.379 [JavaFX Application Thread] iAF_Controller.initialSetup():1361 - Exit
+10May2019 18:13:21.396 [JavaFX Application Thread] iAF_Controller.initialize():1188 - Exit
+10May2019 18:13:23.577 [JavaFX Application Thread] iAF_UI.start():75 - Exit
+10May2019 18:15:13.700 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():559 - Enter
+10May2019 18:15:13.833 [JavaFX Application Thread] iAF_Controller.initialSetup():1252 - Enter
+10May2019 18:15:13.833 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1059 - Enter
+10May2019 18:15:13.834 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1085 - Enter
+10May2019 18:15:13.836 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:15:13.837 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:15:13.839 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:15:13.840 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:15:13.841 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:15:13.842 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:15:13.843 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:15:13.843 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:15:13.999 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:15:13.999 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:15:14.008 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:15:14.009 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:15:14.022 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:15:14.023 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:15:14.045 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:15:14.046 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():2968 - Enter
+10May2019 18:15:14.048 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3079 - Exit
+10May2019 18:15:14.048 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1039 - Enter
+10May2019 18:15:14.050 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1044 - Exit
+10May2019 18:15:14.052 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1637 - Enter
+10May2019 18:15:14.053 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1706 - Exit
+10May2019 18:15:14.054 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2882 - Enter
+10May2019 18:15:14.064 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2916 - Exit
+10May2019 18:15:14.064 [JavaFX Application Thread] iAF_Controller.initialSetup():1361 - Exit
+10May2019 18:15:14.065 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():571 - Refresh done
+10May2019 18:15:14.065 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():576 - Exit
+10May2019 18:15:27.331 [JavaFX Application Thread] TCEditorTabController.initialize():252 - Enter
+10May2019 18:15:27.332 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():213 - Enter
+10May2019 18:15:27.380 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():239 - Exit
+10May2019 18:15:27.381 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():243 - Enter
+10May2019 18:15:27.382 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():44 - Enter
+10May2019 18:15:27.383 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():54 - Exit
+10May2019 18:15:27.384 [JavaFX Application Thread] LibraryActionsLoader.updateActions():58 - Enter
+10May2019 18:15:27.424 [JavaFX Application Thread] LibraryActionsLoader.updateActions():74 - Exit
+10May2019 18:15:27.425 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():247 - Exit
+10May2019 18:15:27.446 [JavaFX Application Thread] TCEditorTabController.initialize():949 - Exit
+10May2019 18:15:27.447 [JavaFX Application Thread] TCEditorTabController.showTabData():953 - Enter
+10May2019 18:15:27.447 [JavaFX Application Thread] TCEditorTabController.showTabData():961 - Enter params(Directory path :C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases Workbook name : CSV_FilesSheet name : Opening_Browser.csv)
+10May2019 18:15:27.448 [JavaFX Application Thread] TCEditorTabController.updateTabData():995 - Enter
+10May2019 18:15:27.448 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():44 - Enter
+10May2019 18:15:27.448 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():54 - Exit
+10May2019 18:15:27.448 [JavaFX Application Thread] LibraryActionsLoader.updateActions():58 - Enter
+10May2019 18:15:27.449 [JavaFX Application Thread] LibraryActionsLoader.updateActions():74 - Exit
+10May2019 18:15:27.478 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:15:27.479 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2381 - Enter params(Opening_Browser.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:15:27.479 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:15:27.480 [JavaFX Application Thread] iAF_Controller.clearDirtyTab():2407 - Enter params(Opening_Browser.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:15:27.480 [JavaFX Application Thread] TCEditorTabController.updateTabData():1099 - Exit
+10May2019 18:15:27.497 [JavaFX Application Thread] TCEditorTabController.showTabData():990 - Exit
+10May2019 18:15:27.497 [JavaFX Application Thread] TCEditorTabController.showTabData():956 - Exit
+10May2019 18:15:29.684 [JavaFX Application Thread] TCEditorTabController.executeTestCaseActionPerformed():2062 - Enter
+10May2019 18:15:29.684 [JavaFX Application Thread] iAF_Controller.executeTestsActionPerformed_TC():3849 - Enter
+10May2019 18:15:29.685 [JavaFX Application Thread] iAF_Controller.executeTests():3896 - Enter
+10May2019 18:15:29.685 [JavaFX Application Thread] iAF_Controller.getLogFileName():3876 - Enter
+10May2019 18:15:29.685 [JavaFX Application Thread] iAF_Controller.getLogFileName():3887 - Exit
+10May2019 18:15:29.687 [JavaFX Application Thread] iAF_Controller.executeTests():3973 - Exit
+10May2019 18:15:29.688 [JavaFX Application Thread] iAF_Controller.executeTestsActionPerformed_TC():3861 - Exit
+10May2019 18:15:29.688 [JavaFX Application Thread] TCEditorTabController.executeTestCaseActionPerformed():2084 - Exit
+10May2019 18:15:29.694 [iAF Main Thread] iAF_Controller.disableBtnsOnExecution():3981 - Enter
+10May2019 18:15:29.694 [iAF Main Thread] TCEditorTabController.disableBtnsOnExecution():2088 - Enter
+10May2019 18:15:29.694 [iAF Main Thread] TCEditorTabController.disableBtnsOnExecution():2101 - Exit
+10May2019 18:15:29.695 [iAF Main Thread] iAF_Controller.disableBtnsOnExecution():3989 - Exit
+10May2019 18:15:29.695 [iAF Main Thread] SpawnThreads.startExecution():82 - Enter params([Opening_Browser.csv[CSV_Files]], false)
+10May2019 18:15:31.342 [iAF Main Thread] HtmlReporter.createReportsDirectory():171 - Enter
+10May2019 18:15:31.345 [iAF Main Thread] HtmlReporter.createReportsPropertiesFile():267 - Enter
+10May2019 18:15:31.352 [iAF Main Thread] HtmlReporter.createReportsPropertiesFile():290 - Exit
+10May2019 18:15:31.354 [iAF Main Thread] HtmlReporter.createReportsDirectory():262 - Exit
+10May2019 18:15:31.354 [iAF Main Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:15:31.355 [iAF Main Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:15:31.357 [iAF Main Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:15:31.358 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:15:31.360 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:15:31.361 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:15:31.362 [iAF Main Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:15:31.363 [iAF Main Thread] SpawnThreads.loadClasses():522 - Enter
+10May2019 18:15:31.376 [iAF Main Thread] SpawnThreads.loadClasses():550 - Failed to load class :  , java.base/jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to java.base/java.net.URLClassLoader
+10May2019 18:15:31.379 [iAF Main Thread] SpawnThreads.startExecution():136 - threadCount updated to : 1
+10May2019 18:15:31.379 [iAF Main Thread] SpawnThreads.startSequentialExecution():183 - Enter
+10May2019 18:15:31.392 [iAF Main Thread] TestsExecutor.loadCurrentEnvironmentPropertiesFile():3107 - Enter
+10May2019 18:15:31.405 [iAF Main Thread] iAF_Controller.updateExeStatusBefore():979 - Enter
+10May2019 18:15:31.406 [iAF Main Thread] iAF_Controller.updateExeStatusBefore():990 - Exit
+10May2019 18:15:31.406 [iAF Main Thread] TestsExecutor.initiateExecution():725 - Enter
+10May2019 18:15:31.407 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1022 - Enter params(0, 1)
+10May2019 18:15:31.408 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1028 - Exit
+10May2019 18:15:31.410 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : Opening_Browser.csv[CSV_Files] 
+10May2019 18:15:31.412 [iAF Main Thread] TestsExecutor.validateCSVFile():168 - Enter
+10May2019 18:15:31.414 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : Opening_Browser.csv[CSV_Files], isReusable : false 
+10May2019 18:15:31.417 [iAF Main Thread] TestsExecutor.initializeObjects():556 - Enter
+10May2019 18:15:31.417 [iAF Main Thread] TestsExecutor.initializeObjects():578 - Exit
+10May2019 18:15:31.422 [iAF Main Thread] TestsExecutor.updateClsObjs():3159 - Enter
+10May2019 18:15:32.877 [iAF Main Thread] TestsExecutor.updateClsObjs():3168 - Exit
+10May2019 18:15:32.877 [iAF Main Thread] TestsExecutor.executeTestCase():863 - Enter
+10May2019 18:15:32.878 [iAF Main Thread] TestsExecutor.clearDynamicVariables():3093 - Enter
+10May2019 18:15:32.878 [iAF Main Thread] TestsExecutor.clearDynamicVariables():3103 - Exit
+10May2019 18:15:32.878 [iAF Main Thread] HtmlReporter.setTestCaseDetails():99 - Enter params(Workbook: CSV_Files sheetName : Opening_Browser.csv)
+10May2019 18:15:32.879 [iAF Main Thread] HtmlReporter.setTestCaseDetails():105 - Exit
+10May2019 18:15:32.879 [iAF Main Thread] HtmlReporter.createLogs():294 - Enter
+10May2019 18:15:32.892 [iAF Main Thread] HtmlReporter.createLogs():483 - Exit
+10May2019 18:15:32.892 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [0, false]
+10May2019 18:15:32.893 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(1, open)
+10May2019 18:15:32.894 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:32.894 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, open, chrome, https://en.wikipedia.org/wiki/Main_Page, "Opening 'browser, 'chrome"] 
+10May2019 18:15:32.910 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+10May2019 18:15:32.911 [iAF Main Thread] WebLibrary.open():173 - Enter params(chrome, https://en.wikipedia.org/wiki/Main_Page)
+10May2019 18:15:32.914 [iAF Main Thread] WebLibrary.open():331 - Chrome Server path set successfully
+10May2019 18:15:33.013 [iAF Main Thread] WebLibrary.open():434 - Opening Browser Failed The driver executable does not exist: C:\Users\RK00358314\Desktop\Temp\BrowserServers\chromedriver.exe 
+10May2019 18:15:33.014 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:15:33.020 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:15:33.020 [iAF Main Thread] HtmlReporter.fail():1650 - Enter params(The driver executable does not exist: C:\Users\RK00358314\Desktop\Temp\BrowserServers\chromedriver.exe, [Ljava.lang.String;@170d7c7)
+10May2019 18:15:33.021 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Failed to open browser, [Ljava.lang.String;@170d7c7)
+10May2019 18:15:33.021 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:33.021 [iAF Main Thread] HtmlReporter.log():1877 - Enter params(Failed to open browser, The driver executable does not exist: C:\Users\RK00358314\Desktop\Temp\BrowserServers\chromedriver.exe)
+10May2019 18:15:33.022 [iAF Main Thread] HtmlReporter.log():1949 - Exit
+10May2019 18:15:33.023 [iAF Main Thread] HtmlReporter.fail():1654 - Exit
+10May2019 18:15:33.023 [iAF Main Thread] HtmlReporter.createStackTraceLog():1394 - Enter params(The driver executable does not exist: C:\Users\RK00358314\Desktop\Temp\BrowserServers\chromedriver.exe)
+10May2019 18:15:33.041 [iAF Main Thread] HtmlReporter.createStackTraceLog():1411 - Text file for Stack Trace created
+10May2019 18:15:33.041 [iAF Main Thread] HtmlReporter.createStackTraceLog():1419 - Exit
+10May2019 18:15:33.051 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [1, false]
+10May2019 18:15:33.051 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(2, sleep)
+10May2019 18:15:33.052 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:33.052 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [2, sleep, , 5000, waiting for 5 second] 
+10May2019 18:15:33.057 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:15:33.058 [iAF Main Thread] WebLibrary.sleep():2098 - Enter params(5000)
+10May2019 18:15:33.058 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 5 seconds
+10May2019 18:15:34.059 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 4 seconds
+10May2019 18:15:35.059 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 3 seconds
+10May2019 18:15:36.060 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 2 seconds
+10May2019 18:15:37.060 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 1 seconds
+10May2019 18:15:38.060 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@681f5386)
+10May2019 18:15:38.060 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@681f5386)
+10May2019 18:15:38.105 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:38.105 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Wait successful for <i><b>5000</b></i> sec(s))
+10May2019 18:15:38.117 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:15:38.117 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:15:38.118 [iAF Main Thread] WebLibrary.sleep():2133 - Wait Completed
+10May2019 18:15:38.118 [iAF Main Thread] WebLibrary.sleep():2145 - Exit
+10May2019 18:15:38.120 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:15:38.121 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [2, false]
+10May2019 18:15:38.122 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(3, getScreenshot)
+10May2019 18:15:38.122 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:38.123 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [3, getScreenshot, , , ] 
+10May2019 18:15:38.128 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : getScreenshot
+10May2019 18:15:38.129 [iAF Main Thread] WebLibrary.getScreenshot():3770 - Enter
+10May2019 18:15:38.129 [iAF Main Thread] WebLibrary.getScreenshot():3771 - --- ScreenShot Taken
+10May2019 18:15:38.129 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:15:38.133 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:15:38.134 [iAF Main Thread] HtmlReporter.screenshot():1704 - Enter params(Screenshot Taken, null)
+10May2019 18:15:38.135 [iAF Main Thread] HtmlReporter.screenshot():1753 - Exit
+10May2019 18:15:38.136 [iAF Main Thread] WebLibrary.getScreenshot():3774 - Exit
+10May2019 18:15:38.144 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:15:38.145 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [3, false]
+10May2019 18:15:38.146 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(data, LoadSingleTestData)
+10May2019 18:15:38.147 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:38.149 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [data, LoadSingleTestData, TestDataSheet.Data_Login, 1, ] 
+10May2019 18:15:38.155 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():1995 - Enter
+10May2019 18:15:38.157 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():1996 - parameters[locator, value, currentStep] values [TestDataSheet.Data_Login, 1, data] 
+10May2019 18:15:38.159 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_Unique_ID = 1
+10May2019 18:15:38.160 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_UserName = Techmahindra
+10May2019 18:15:38.160 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [4, false]
+10May2019 18:15:38.161 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(4, type)
+10May2019 18:15:38.161 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:38.161 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [4, type, ${Rajkumar.Search_Text}, {V_data_UserName}, ] 
+10May2019 18:15:38.165 [iAF Main Thread] TestsExecutor.Env_file_Read():2997 - Enter params({V_data_UserName})
+10May2019 18:15:38.166 [iAF Main Thread] TestsExecutor.Env_file_Read():3028 - The Value for the property V_data_UserName is :Techmahindra
+10May2019 18:15:38.168 [iAF Main Thread] TestsExecutor.Env_file_Read():3065 - Exit
+10May2019 18:15:38.169 [iAF Main Thread] TestsExecutor.getObjectFromObjectRepository():1823 - Enter
+10May2019 18:15:38.172 [iAF Main Thread] TestsExecutor.getObjectFromObjectRepository():1824 - locator : ${Rajkumar.Search_Text} 
+10May2019 18:15:38.180 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : type
+10May2019 18:15:38.181 [iAF Main Thread] WebLibrary.type():2717 - Enter params(ID, searchInput, Techmahindra)
+10May2019 18:15:38.181 [iAF Main Thread] WebLibrary.inspect():1290 - Enter params(ID, searchInput)
+10May2019 18:15:38.201 [iAF Main Thread] WebLibrary.inspect():1297 - i: 0 
+10May2019 18:15:38.201 [iAF Main Thread] WebLibrary.inspect():1298 - Attempting inspectMain inside inspect. Attempt No.: 1
+10May2019 18:15:38.201 [iAF Main Thread] WebLibrary.inspectMain():1338 - Enter params(ID, searchInput)
+10May2019 18:15:38.202 [iAF Main Thread] WebLibrary.inspectMain():1367 - --
+10May2019 18:15:40.214 [iAF Main Thread] WebLibrary.inspect():1319 - Exit
+10May2019 18:15:40.214 [iAF Main Thread] WebLibrary.type():2790 - Cannot locate element by :ID, searchInput
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown
+10May2019 18:15:40.215 [iAF Main Thread] HtmlReporter.createStackTraceLog():1394 - Enter params(Cannot locate element by :ID, searchInput
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown)
+10May2019 18:15:40.227 [iAF Main Thread] HtmlReporter.createStackTraceLog():1411 - Text file for Stack Trace created
+10May2019 18:15:40.227 [iAF Main Thread] HtmlReporter.createStackTraceLog():1419 - Exit
+10May2019 18:15:40.228 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:15:40.230 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:15:40.230 [iAF Main Thread] HtmlReporter.fail():1650 - Enter params(Cannot locate element by :ID, searchInput
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown, [Ljava.lang.String;@64451c7)
+10May2019 18:15:40.231 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Failed to enter Text: {bi} in element {bi}={bi}, [Ljava.lang.String;@64451c7)
+10May2019 18:15:40.231 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:40.231 [iAF Main Thread] HtmlReporter.log():1877 - Enter params(Failed to enter Text: <i><b>Techmahindra</b></i> in element <i><b>ID</b></i>=<i><b>searchInput</b></i>, Cannot locate element by :ID, searchInput
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown)
+10May2019 18:15:40.232 [iAF Main Thread] HtmlReporter.log():1949 - Exit
+10May2019 18:15:40.232 [iAF Main Thread] HtmlReporter.fail():1654 - Exit
+10May2019 18:15:40.235 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [5, false]
+10May2019 18:15:40.235 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(5, click)
+10May2019 18:15:40.236 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:40.236 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [5, click, name=go, , ] 
+10May2019 18:15:40.243 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : click
+10May2019 18:15:40.245 [iAF Main Thread] WebLibrary.click():2565 - Enter params(name, go)
+10May2019 18:15:40.246 [iAF Main Thread] WebLibrary.inspect():1290 - Enter params(name, go)
+10May2019 18:15:40.246 [iAF Main Thread] WebLibrary.inspect():1297 - i: 0 
+10May2019 18:15:40.246 [iAF Main Thread] WebLibrary.inspect():1298 - Attempting inspectMain inside inspect. Attempt No.: 1
+10May2019 18:15:40.246 [iAF Main Thread] WebLibrary.inspectMain():1338 - Enter params(name, go)
+10May2019 18:15:40.246 [iAF Main Thread] WebLibrary.inspectMain():1367 - --
+10May2019 18:15:42.250 [iAF Main Thread] WebLibrary.inspect():1319 - Exit
+10May2019 18:15:42.252 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:15:42.254 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:15:42.254 [iAF Main Thread] HtmlReporter.fail():1650 - Enter params(Cannot locate element by :name, go
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown, [Ljava.lang.String;@6663a675)
+10May2019 18:15:42.254 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Failed to click on element with {bi}={bi}, [Ljava.lang.String;@6663a675)
+10May2019 18:15:42.255 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:42.255 [iAF Main Thread] HtmlReporter.log():1877 - Enter params(Failed to click on element with <i><b>name</b></i>=<i><b>go</b></i>, Cannot locate element by :name, go
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown)
+10May2019 18:15:42.256 [iAF Main Thread] HtmlReporter.log():1949 - Exit
+10May2019 18:15:42.257 [iAF Main Thread] HtmlReporter.fail():1654 - Exit
+10May2019 18:15:42.257 [iAF Main Thread] HtmlReporter.createStackTraceLog():1394 - Enter params(Cannot locate element by :name, go
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'INPUHJLP05952', ip: '10.10.112.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: unknown)
+10May2019 18:15:42.272 [iAF Main Thread] HtmlReporter.createStackTraceLog():1411 - Text file for Stack Trace created
+10May2019 18:15:42.273 [iAF Main Thread] HtmlReporter.createStackTraceLog():1419 - Exit
+10May2019 18:15:42.276 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [6, false]
+10May2019 18:15:42.276 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(6, sleep)
+10May2019 18:15:42.277 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:42.277 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [6, sleep, , 5000, wait for 5 seconds] 
+10May2019 18:15:42.280 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:15:42.281 [iAF Main Thread] WebLibrary.sleep():2098 - Enter params(5000)
+10May2019 18:15:42.281 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 5 seconds
+10May2019 18:15:43.313 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 4 seconds
+10May2019 18:15:44.315 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 3 seconds
+10May2019 18:15:45.315 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 2 seconds
+10May2019 18:15:46.319 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 1 seconds
+10May2019 18:15:47.319 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@47deb61f)
+10May2019 18:15:47.319 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@47deb61f)
+10May2019 18:15:47.319 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:47.319 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Wait successful for <i><b>5000</b></i> sec(s))
+10May2019 18:15:47.321 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:15:47.321 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:15:47.321 [iAF Main Thread] WebLibrary.sleep():2133 - Wait Completed
+10May2019 18:15:47.321 [iAF Main Thread] WebLibrary.sleep():2145 - Exit
+10May2019 18:15:47.321 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:15:47.322 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [7, false]
+10May2019 18:15:47.322 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(7, closeBrowser)
+10May2019 18:15:47.322 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:15:47.322 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [7, closeBrowser, , , ] 
+10May2019 18:15:47.325 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : closeBrowser
+10May2019 18:15:47.326 [iAF Main Thread] WebLibrary.closeBrowser():3004 - Enter
+10May2019 18:15:47.326 [iAF Main Thread] WebLibrary.closeBrowser():3011 - null
+10May2019 18:15:47.327 [iAF Main Thread] HtmlReporter.createStackTraceLog():1394 - Enter params(null)
+10May2019 18:15:47.345 [iAF Main Thread] HtmlReporter.createStackTraceLog():1411 - Text file for Stack Trace created
+10May2019 18:15:47.346 [iAF Main Thread] HtmlReporter.createStackTraceLog():1419 - Exit
+10May2019 18:15:47.346 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:15:47.349 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:15:47.350 [iAF Main Thread] HtmlReporter.fail():1650 - Enter params(null, [Ljava.lang.String;@46ad985a)
+10May2019 18:15:47.350 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Error encountered while closing browser, [Ljava.lang.String;@46ad985a)
+10May2019 18:15:47.351 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:15:47.351 [iAF Main Thread] HtmlReporter.log():1877 - Enter params(Error encountered while closing browser, null)
+10May2019 18:15:47.352 [iAF Main Thread] HtmlReporter.log():1949 - Exit
+10May2019 18:15:47.352 [iAF Main Thread] HtmlReporter.fail():1654 - Exit
+10May2019 18:15:47.355 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [8, false]
+10May2019 18:15:47.356 [iAF Main Thread] TestsExecutor.executeTestCase():1220 - Test status is failed for Folder : CSV_Files, File: Opening_Browser.csv
+10May2019 18:15:47.357 [iAF Main Thread] HtmlReporter.createLogsFooter():488 - Enter params(Fri May 10 18:15:32 IST 2019, Fri May 10 18:15:47 IST 2019)
+10May2019 18:15:47.358 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(14479)
+10May2019 18:15:47.358 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:15:47.358 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:15:47.359 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:15:47.378 [iAF Main Thread] HtmlReporter.createLogsFooter():543 - Exit
+10May2019 18:15:47.379 [iAF Main Thread] ReporterImpl.setStaticFields():135 - Enter
+10May2019 18:15:47.379 [iAF Main Thread] HtmlReporter.setStaticFields():547 - Enter params(html setStaticFields=======>failed :Fri May 10 18:15:32 IST 2019 :Fri May 10 18:15:47 IST 2019 :0)
+10May2019 18:15:47.379 [iAF Main Thread] HtmlReporter.setStaticFields():570 - Exit
+10May2019 18:15:47.380 [iAF Main Thread] TestsExecutor.executeTestCase():1245 - Exit
+10May2019 18:15:47.380 [iAF Main Thread] TestsExecutor.initiateExecution():783 - Exit
+10May2019 18:15:47.380 [iAF Main Thread] iAF_Controller.updateExeStatusAfter():994 - Enter
+10May2019 18:15:47.381 [iAF Main Thread] iAF_Controller.updateExeStatusAfter():1005 - Exit
+10May2019 18:15:47.381 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1022 - Enter params(1, 0)
+10May2019 18:15:47.381 [iAF Main Thread] SpawnThreads.startSequentialExecution():197 - Exit
+10May2019 18:15:47.381 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1028 - Exit
+10May2019 18:15:47.381 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+10May2019 18:15:47.384 [iAF Main Thread] HtmlReporter.createExecutionReports():617 - Enter params(Fri May 10 18:15:31 IST 2019, Fri May 10 18:15:47 IST 2019)
+10May2019 18:15:47.386 [iAF Main Thread] JSReporter.pieChartWriter():232 - Enter
+10May2019 18:15:47.401 [iAF Main Thread] JSReporter.pieChartWriter():264 - Exit
+10May2019 18:15:47.409 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(14479)
+10May2019 18:15:47.409 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:15:47.410 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(16005)
+10May2019 18:15:47.410 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:15:47.410 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:15:47.412 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:15:47.441 [iAF Main Thread] HtmlReporter.createExecutionReports():822 - Exit
+10May2019 18:15:47.442 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():826 - Enter
+10May2019 18:15:47.680 [iAF Main Thread] HtmlReporter.getPercentages():1160 - Enter params(Passed value :0 Failed value : 1 Skipped value :0 Stopped Value :0)
+10May2019 18:15:47.681 [iAF Main Thread] HtmlReporter.getPercentages():1207 - Exit
+10May2019 18:15:47.681 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:15:47.682 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:15:47.704 [iAF Main Thread] JSReporter.barChartWriter():269 - Enter
+10May2019 18:15:47.708 [iAF Main Thread] JSReporter.barChartWriter():513 - Exit
+10May2019 18:15:47.709 [iAF Main Thread] HtmlReporter.updateReportsPropertiesFile():1211 - Enter
+10May2019 18:15:47.713 [iAF Main Thread] HtmlReporter.updateReportsPropertiesFile():1266 - Exit
+10May2019 18:15:47.713 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+10May2019 18:15:47.714 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1271 - Enter
+10May2019 18:15:47.715 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1278 - Passed testcase list: 
+10May2019 18:15:47.715 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1284 - Failed testcase list:Opening_Browser.csv[CSV_Files\Opening_Browser.csv]; 
+10May2019 18:15:47.716 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1285 - Exit
+10May2019 18:15:47.716 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1156 - Exit
+10May2019 18:15:47.716 [iAF Main Thread] HtmlReporter.createDashboard():1289 - Enter params(Fri May 10 18:15:31 IST 2019, Fri May 10 18:15:47 IST 2019)
+10May2019 18:15:47.722 [iAF Main Thread] HtmlReporter.getPercentages():1160 - Enter params(Passed value :0 Failed value : 1 Skipped value :0 Stopped Value :0)
+10May2019 18:15:47.724 [iAF Main Thread] HtmlReporter.getPercentages():1207 - Exit
+10May2019 18:15:47.724 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(16005)
+10May2019 18:15:47.725 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:15:47.725 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:15:47.725 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:15:47.726 [iAF Main Thread] HtmlReporter.createDashboard():1390 - Exit
+10May2019 18:15:47.726 [iAF Main Thread] HtmlReporter.clearFields():122 - Enter
+10May2019 18:15:47.726 [iAF Main Thread] HtmlReporter.clearFields():167 - Exit
+10May2019 18:15:47.727 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+10May2019 18:15:47.728 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+10May2019 18:15:47.729 [iAF Main Thread] SpawnThreads.initiateWebDriversCleanUp():593 - Enter
+10May2019 18:15:47.729 [iAF Main Thread] TestsExecutor.initiateWebDriverCleanUp():3137 - Enter
+10May2019 18:15:47.729 [iAF Main Thread] WebLibrary.quitBrowserCleanUp():3026 - Enter
+10May2019 18:15:47.729 [iAF Main Thread] WebLibrary.quitBrowserCleanUp():3033 - Exit
+10May2019 18:15:47.730 [iAF Main Thread] TestsExecutor.initiateWebDriverCleanUp():3155 - Exit
+10May2019 18:15:47.730 [iAF Main Thread] SpawnThreads.initiateWebDriversCleanUp():602 - Exit
+10May2019 18:15:47.730 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...
+10May2019 18:15:47.731 [iAF Main Thread] SpawnThreads.startExecution():179 - Exit
+10May2019 18:15:47.732 [iAF Main Thread] iAF_Controller.enableBtnsOnExecution():3997 - Enter
+10May2019 18:15:47.732 [iAF Main Thread] TCEditorTabController.enableBtnsOnExecution():2106 - Enter
+10May2019 18:15:47.733 [iAF Main Thread] TCEditorTabController.enableBtnsOnExecution():2134 - Exit
+10May2019 18:15:47.733 [iAF Main Thread] iAF_Controller.enableBtnsOnExecution():4005 - Exit
+10May2019 18:15:47.734 [JavaFX Application Thread] TCEditorTabController.initialize():252 - Enter
+10May2019 18:15:47.734 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():213 - Enter
+10May2019 18:15:47.749 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():239 - Exit
+10May2019 18:15:47.749 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():243 - Enter
+10May2019 18:15:47.749 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():247 - Exit
+10May2019 18:15:47.750 [JavaFX Application Thread] TCEditorTabController.initialize():949 - Exit
+10May2019 18:16:11.380 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():559 - Enter
+10May2019 18:16:11.382 [JavaFX Application Thread] iAF_Controller.initialSetup():1252 - Enter
+10May2019 18:16:11.382 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1059 - Enter
+10May2019 18:16:11.383 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1085 - Enter
+10May2019 18:16:11.384 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:16:11.384 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:16:11.386 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:16:11.386 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:16:11.387 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:16:11.388 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:16:11.388 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:16:11.389 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:16:11.469 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:16:11.470 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:16:11.478 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:16:11.478 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:16:11.489 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:16:11.490 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:16:11.507 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:16:11.508 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():2968 - Enter
+10May2019 18:16:11.510 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3079 - Exit
+10May2019 18:16:11.511 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1039 - Enter
+10May2019 18:16:11.512 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1044 - Exit
+10May2019 18:16:11.514 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1637 - Enter
+10May2019 18:16:11.518 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1706 - Exit
+10May2019 18:16:11.519 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2882 - Enter
+10May2019 18:16:11.526 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2916 - Exit
+10May2019 18:16:11.526 [JavaFX Application Thread] iAF_Controller.initialSetup():1361 - Exit
+10May2019 18:16:11.526 [JavaFX Application Thread] TCEditorTabController.updateTabData():995 - Enter
+10May2019 18:16:11.527 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():44 - Enter
+10May2019 18:16:11.527 [JavaFX Application Thread] LibraryActionsLoader.loadBaseActions():54 - Exit
+10May2019 18:16:11.527 [JavaFX Application Thread] LibraryActionsLoader.updateActions():58 - Enter
+10May2019 18:16:11.528 [JavaFX Application Thread] LibraryActionsLoader.updateActions():74 - Exit
+10May2019 18:16:11.532 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2148 - Enter
+10May2019 18:16:11.532 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2381 - Enter params(Opening_Browser.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:16:11.533 [JavaFX Application Thread] TCEditorTabController.updateDataMgr():2162 - Exit
+10May2019 18:16:11.533 [JavaFX Application Thread] iAF_Controller.clearDirtyTab():2407 - Enter params(Opening_Browser.csv, CSV_Files, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestCases)
+10May2019 18:16:11.534 [JavaFX Application Thread] TCEditorTabController.updateTabData():1099 - Exit
+10May2019 18:16:11.534 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():571 - Refresh done
+10May2019 18:16:11.534 [JavaFX Application Thread] iAF_Controller.refreshButtonActionPerformed():576 - Exit
+10May2019 18:16:14.020 [JavaFX Application Thread] iAF_Controller.clearConsoleLog():958 - Enter
+10May2019 18:16:14.021 [JavaFX Application Thread] iAF_Controller.clearConsoleLog():975 - Exit
+10May2019 18:16:15.380 [JavaFX Application Thread] TCEditorTabController.executeTestCaseActionPerformed():2062 - Enter
+10May2019 18:16:15.380 [JavaFX Application Thread] iAF_Controller.executeTestsActionPerformed_TC():3849 - Enter
+10May2019 18:16:15.380 [JavaFX Application Thread] iAF_Controller.executeTests():3896 - Enter
+10May2019 18:16:15.381 [JavaFX Application Thread] iAF_Controller.getLogFileName():3876 - Enter
+10May2019 18:16:15.381 [JavaFX Application Thread] iAF_Controller.getLogFileName():3887 - Exit
+10May2019 18:16:15.381 [JavaFX Application Thread] iAF_Controller.executeTests():3973 - Exit
+10May2019 18:16:15.382 [JavaFX Application Thread] iAF_Controller.executeTestsActionPerformed_TC():3861 - Exit
+10May2019 18:16:15.382 [JavaFX Application Thread] TCEditorTabController.executeTestCaseActionPerformed():2084 - Exit
+10May2019 18:16:15.386 [iAF Main Thread] iAF_Controller.disableBtnsOnExecution():3981 - Enter
+10May2019 18:16:15.386 [iAF Main Thread] TCEditorTabController.disableBtnsOnExecution():2088 - Enter
+10May2019 18:16:15.386 [iAF Main Thread] TCEditorTabController.disableBtnsOnExecution():2101 - Exit
+10May2019 18:16:15.386 [iAF Main Thread] iAF_Controller.disableBtnsOnExecution():3989 - Exit
+10May2019 18:16:15.386 [iAF Main Thread] SpawnThreads.startExecution():82 - Enter params([Opening_Browser.csv[CSV_Files]], false)
+10May2019 18:16:15.389 [iAF Main Thread] HtmlReporter.createReportsDirectory():171 - Enter
+10May2019 18:16:15.392 [iAF Main Thread] HtmlReporter.createReportsPropertiesFile():267 - Enter
+10May2019 18:16:15.392 [iAF Main Thread] HtmlReporter.createReportsPropertiesFile():290 - Exit
+10May2019 18:16:15.394 [iAF Main Thread] HtmlReporter.createReportsDirectory():262 - Exit
+10May2019 18:16:15.394 [iAF Main Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:16:15.394 [iAF Main Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:16:15.396 [iAF Main Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:16:15.397 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:16:15.398 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:16:15.399 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:16:15.399 [iAF Main Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:16:15.399 [iAF Main Thread] SpawnThreads.loadClasses():522 - Enter
+10May2019 18:16:15.405 [iAF Main Thread] SpawnThreads.loadClasses():550 - Failed to load class :  , java.base/jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to java.base/java.net.URLClassLoader
+10May2019 18:16:15.406 [iAF Main Thread] SpawnThreads.startExecution():136 - threadCount updated to : 1
+10May2019 18:16:15.406 [iAF Main Thread] SpawnThreads.startSequentialExecution():183 - Enter
+10May2019 18:16:15.406 [iAF Main Thread] TestsExecutor.loadCurrentEnvironmentPropertiesFile():3107 - Enter
+10May2019 18:16:15.407 [iAF Main Thread] iAF_Controller.updateExeStatusBefore():979 - Enter
+10May2019 18:16:15.408 [iAF Main Thread] iAF_Controller.updateExeStatusBefore():990 - Exit
+10May2019 18:16:15.408 [iAF Main Thread] TestsExecutor.initiateExecution():725 - Enter
+10May2019 18:16:15.408 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : Opening_Browser.csv[CSV_Files] 
+10May2019 18:16:15.409 [iAF Main Thread] TestsExecutor.validateCSVFile():168 - Enter
+10May2019 18:16:15.416 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : Opening_Browser.csv[CSV_Files], isReusable : false 
+10May2019 18:16:15.420 [iAF Main Thread] TestsExecutor.initializeObjects():556 - Enter
+10May2019 18:16:15.421 [iAF Main Thread] TestsExecutor.initializeObjects():578 - Exit
+10May2019 18:16:15.422 [iAF Main Thread] TestsExecutor.updateClsObjs():3159 - Enter
+10May2019 18:16:15.424 [iAF Main Thread] TestsExecutor.updateClsObjs():3168 - Exit
+10May2019 18:16:15.424 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1022 - Enter params(0, 1)
+10May2019 18:16:15.425 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1028 - Exit
+10May2019 18:16:15.426 [iAF Main Thread] TestsExecutor.executeTestCase():863 - Enter
+10May2019 18:16:15.426 [iAF Main Thread] TestsExecutor.clearDynamicVariables():3093 - Enter
+10May2019 18:16:15.426 [iAF Main Thread] TestsExecutor.clearDynamicVariables():3103 - Exit
+10May2019 18:16:15.427 [iAF Main Thread] HtmlReporter.setTestCaseDetails():99 - Enter params(Workbook: CSV_Files sheetName : Opening_Browser.csv)
+10May2019 18:16:15.427 [iAF Main Thread] HtmlReporter.setTestCaseDetails():105 - Exit
+10May2019 18:16:15.427 [iAF Main Thread] HtmlReporter.createLogs():294 - Enter
+10May2019 18:16:15.439 [iAF Main Thread] HtmlReporter.createLogs():483 - Exit
+10May2019 18:16:15.440 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [0, false]
+10May2019 18:16:15.440 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(1, open)
+10May2019 18:16:15.441 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:15.441 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, open, chrome, https://en.wikipedia.org/wiki/Main_Page, "Opening 'browser, 'chrome"] 
+10May2019 18:16:15.444 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+10May2019 18:16:15.445 [iAF Main Thread] WebLibrary.open():173 - Enter params(chrome, https://en.wikipedia.org/wiki/Main_Page)
+10May2019 18:16:15.445 [iAF Main Thread] WebLibrary.open():331 - Chrome Server path set successfully
+10May2019 18:16:22.957 [iAF Main Thread] WebLibrary.open():351 - Deleted all cookies
+10May2019 18:16:24.957 [iAF Main Thread] WebLibrary.open():358 - chrome browser opened successfully
+10May2019 18:16:24.957 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params({bi} browser opened successfully, [Ljava.lang.String;@5f043265)
+10May2019 18:16:24.957 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params({bi} browser opened successfully, [Ljava.lang.String;@5f043265)
+10May2019 18:16:24.957 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:24.958 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(<i><b>chrome</b></i> browser opened successfully)
+10May2019 18:16:24.958 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:24.958 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:27.033 [iAF Main Thread] WebLibrary.open():414 - Implicit global timeout (in secs) set to 60 
+10May2019 18:16:27.034 [iAF Main Thread] WebLibrary.setEnvDetails():1439 - Enter
+10May2019 18:16:27.034 [iAF Main Thread] WebLibrary.setEnvDetails():1474 - Exit
+10May2019 18:16:27.034 [iAF Main Thread] WebLibrary.open():443 - Exit
+10May2019 18:16:27.035 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:27.035 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [1, false]
+10May2019 18:16:27.035 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(2, sleep)
+10May2019 18:16:27.035 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:27.035 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [2, sleep, , 5000, waiting for 5 second] 
+10May2019 18:16:27.039 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:16:27.040 [iAF Main Thread] WebLibrary.sleep():2098 - Enter params(5000)
+10May2019 18:16:27.040 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 5 seconds
+10May2019 18:16:28.040 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 4 seconds
+10May2019 18:16:29.041 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 3 seconds
+10May2019 18:16:30.041 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 2 seconds
+10May2019 18:16:31.042 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 1 seconds
+10May2019 18:16:32.042 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@1116a561)
+10May2019 18:16:32.042 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@1116a561)
+10May2019 18:16:32.043 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:32.043 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Wait successful for <i><b>5000</b></i> sec(s))
+10May2019 18:16:32.044 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:32.044 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:32.045 [iAF Main Thread] WebLibrary.sleep():2133 - Wait Completed
+10May2019 18:16:32.045 [iAF Main Thread] WebLibrary.sleep():2145 - Exit
+10May2019 18:16:32.045 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:32.045 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [2, false]
+10May2019 18:16:32.045 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(3, getScreenshot)
+10May2019 18:16:32.046 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:32.046 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [3, getScreenshot, , , ] 
+10May2019 18:16:32.049 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : getScreenshot
+10May2019 18:16:32.050 [iAF Main Thread] WebLibrary.getScreenshot():3770 - Enter
+10May2019 18:16:32.050 [iAF Main Thread] WebLibrary.getScreenshot():3771 - --- ScreenShot Taken
+10May2019 18:16:32.050 [iAF Main Thread] WebLibrary.takeScreenShot():3063 - Enter
+10May2019 18:16:32.651 [iAF Main Thread] WebLibrary.takeScreenShot():3067 - Screenshot file is created successfully at: C:\Users\RK0035~1\AppData\Local\Temp\screenshot5322913723368026661.png
+10May2019 18:16:32.651 [iAF Main Thread] WebLibrary.takeScreenShot():3072 - Exit
+10May2019 18:16:32.652 [iAF Main Thread] HtmlReporter.screenshot():1704 - Enter params(Screenshot Taken, null)
+10May2019 18:16:32.678 [iAF Main Thread] HtmlReporter.screenshot():1753 - Exit
+10May2019 18:16:32.678 [iAF Main Thread] WebLibrary.getScreenshot():3774 - Exit
+10May2019 18:16:32.678 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:32.679 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [3, false]
+10May2019 18:16:32.679 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(data, LoadSingleTestData)
+10May2019 18:16:32.679 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:32.679 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [data, LoadSingleTestData, TestDataSheet.Data_Login, 1, ] 
+10May2019 18:16:32.680 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():1995 - Enter
+10May2019 18:16:32.680 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():1996 - parameters[locator, value, currentStep] values [TestDataSheet.Data_Login, 1, data] 
+10May2019 18:16:32.682 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_Unique_ID = 1
+10May2019 18:16:32.695 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_UserName = Techmahindra
+10May2019 18:16:32.697 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [4, false]
+10May2019 18:16:32.698 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(4, type)
+10May2019 18:16:32.699 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:32.699 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [4, type, ${Rajkumar.Search_Text}, {V_data_UserName}, ] 
+10May2019 18:16:32.700 [iAF Main Thread] TestsExecutor.Env_file_Read():2997 - Enter params({V_data_UserName})
+10May2019 18:16:32.700 [iAF Main Thread] TestsExecutor.Env_file_Read():3028 - The Value for the property V_data_UserName is :Techmahindra
+10May2019 18:16:32.701 [iAF Main Thread] TestsExecutor.Env_file_Read():3065 - Exit
+10May2019 18:16:32.701 [iAF Main Thread] TestsExecutor.getObjectFromObjectRepository():1823 - Enter
+10May2019 18:16:32.701 [iAF Main Thread] TestsExecutor.getObjectFromObjectRepository():1824 - locator : ${Rajkumar.Search_Text} 
+10May2019 18:16:32.707 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : type
+10May2019 18:16:32.708 [iAF Main Thread] WebLibrary.type():2717 - Enter params(ID, searchInput, Techmahindra)
+10May2019 18:16:32.708 [iAF Main Thread] WebLibrary.inspect():1290 - Enter params(ID, searchInput)
+10May2019 18:16:32.708 [iAF Main Thread] WebLibrary.inspect():1297 - i: 0 
+10May2019 18:16:32.709 [iAF Main Thread] WebLibrary.inspect():1298 - Attempting inspectMain inside inspect. Attempt No.: 1
+10May2019 18:16:32.709 [iAF Main Thread] WebLibrary.inspectMain():1338 - Enter params(ID, searchInput)
+10May2019 18:16:32.709 [iAF Main Thread] WebLibrary.inspectMain():1367 - --
+10May2019 18:16:32.744 [iAF Main Thread] WebLibrary.inspectMain():1390 - Waiting for the element to be clickable and visible
+10May2019 18:16:32.820 [iAF Main Thread] WebLibrary.inspectMain():1400 - Exit
+10May2019 18:16:32.820 [iAF Main Thread] WebLibrary.inspect():1323 - Exit
+10May2019 18:16:34.049 [iAF Main Thread] WebLibrary.type():2773 - Text [Techmahindra] Entered successfully in element "searchInput"
+10May2019 18:16:34.049 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Text {bi} entered successfully in element {bi}={bi} , [Ljava.lang.String;@2f5a00d4)
+10May2019 18:16:34.049 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Text {bi} entered successfully in element {bi}={bi} , [Ljava.lang.String;@2f5a00d4)
+10May2019 18:16:34.050 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:34.050 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Text <i><b>Techmahindra</b></i> entered successfully in element <i><b>ID</b></i>=<i><b>searchInput</b></i> )
+10May2019 18:16:34.051 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:34.051 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:34.057 [iAF Main Thread] WebLibrary.type():2777 - --- Setting the default timeout to 60 seconds
+10May2019 18:16:34.057 [iAF Main Thread] WebLibrary.type():2800 - Exit
+10May2019 18:16:34.058 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:34.058 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [5, false]
+10May2019 18:16:34.058 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(5, click)
+10May2019 18:16:34.058 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:34.058 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [5, click, name=go, , ] 
+10May2019 18:16:34.062 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : click
+10May2019 18:16:34.062 [iAF Main Thread] WebLibrary.click():2565 - Enter params(name, go)
+10May2019 18:16:34.063 [iAF Main Thread] WebLibrary.inspect():1290 - Enter params(name, go)
+10May2019 18:16:34.063 [iAF Main Thread] WebLibrary.inspect():1297 - i: 0 
+10May2019 18:16:34.063 [iAF Main Thread] WebLibrary.inspect():1298 - Attempting inspectMain inside inspect. Attempt No.: 1
+10May2019 18:16:34.063 [iAF Main Thread] WebLibrary.inspectMain():1338 - Enter params(name, go)
+10May2019 18:16:34.063 [iAF Main Thread] WebLibrary.inspectMain():1367 - --
+10May2019 18:16:34.108 [iAF Main Thread] WebLibrary.inspectMain():1390 - Waiting for the element to be clickable and visible
+10May2019 18:16:34.138 [iAF Main Thread] WebLibrary.inspectMain():1400 - Exit
+10May2019 18:16:34.138 [iAF Main Thread] WebLibrary.inspect():1323 - Exit
+10May2019 18:16:35.778 [iAF Main Thread] WebLibrary.click():2571 - Clicking on Element Passed
+10May2019 18:16:35.778 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Clicking on element with {bi}={bi} passed, [Ljava.lang.String;@33f00b8c)
+10May2019 18:16:35.778 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Clicking on element with {bi}={bi} passed, [Ljava.lang.String;@33f00b8c)
+10May2019 18:16:35.778 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:35.779 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Clicking on element with <i><b>name</b></i>=<i><b>go</b></i> passed)
+10May2019 18:16:35.779 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:35.780 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:35.780 [iAF Main Thread] WebLibrary.click():2587 - Exit
+10May2019 18:16:35.780 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:35.780 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [6, false]
+10May2019 18:16:35.781 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(6, sleep)
+10May2019 18:16:35.781 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:35.781 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [6, sleep, , 5000, wait for 5 seconds] 
+10May2019 18:16:35.785 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:16:35.785 [iAF Main Thread] WebLibrary.sleep():2098 - Enter params(5000)
+10May2019 18:16:35.785 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 5 seconds
+10May2019 18:16:36.786 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 4 seconds
+10May2019 18:16:37.786 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 3 seconds
+10May2019 18:16:38.787 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 2 seconds
+10May2019 18:16:39.789 [iAF Main Thread] WebLibrary.sleep():2111 - Remaining wait time : 1 seconds
+10May2019 18:16:40.790 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@141f858f)
+10May2019 18:16:40.790 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params(Wait successful for {bi} sec(s), [Ljava.lang.String;@141f858f)
+10May2019 18:16:40.790 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:40.790 [iAF Main Thread] HtmlReporter.log():1829 - Enter params(Wait successful for <i><b>5000</b></i> sec(s))
+10May2019 18:16:40.791 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:40.791 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:40.791 [iAF Main Thread] WebLibrary.sleep():2133 - Wait Completed
+10May2019 18:16:40.791 [iAF Main Thread] WebLibrary.sleep():2145 - Exit
+10May2019 18:16:40.791 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:40.791 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [7, false]
+10May2019 18:16:40.792 [iAF Main Thread] BaseLibrary.canExecute():49 - Enter params(7, closeBrowser)
+10May2019 18:16:40.792 [iAF Main Thread] BaseLibrary.canExecute():102 - Exit
+10May2019 18:16:40.792 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [7, closeBrowser, , , ] 
+10May2019 18:16:40.796 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : closeBrowser
+10May2019 18:16:40.797 [iAF Main Thread] WebLibrary.closeBrowser():3004 - Enter
+10May2019 18:16:41.446 [iAF Main Thread] HtmlReporter.pass():1520 - Enter params( {bi} Browser closed successfully, [Ljava.lang.String;@609b3043)
+10May2019 18:16:41.446 [iAF Main Thread] HtmlReporter.parseMessage():1662 - Enter params( {bi} Browser closed successfully, [Ljava.lang.String;@609b3043)
+10May2019 18:16:41.446 [iAF Main Thread] HtmlReporter.parseMessage():1698 - Exit
+10May2019 18:16:41.447 [iAF Main Thread] HtmlReporter.log():1829 - Enter params( <i><b>chrome</b></i> Browser closed successfully)
+10May2019 18:16:41.447 [iAF Main Thread] HtmlReporter.log():1872 - Exit
+10May2019 18:16:41.448 [iAF Main Thread] HtmlReporter.pass():1525 - Exit
+10May2019 18:16:41.448 [iAF Main Thread] WebLibrary.closeBrowser():3009 - Browser chrome Close Succesful
+10May2019 18:16:41.448 [iAF Main Thread] WebLibrary.closeBrowser():3021 - Exit
+10May2019 18:16:41.448 [iAF Main Thread] TestsExecutor.invokeMethods():1605 - Exit
+10May2019 18:16:41.448 [iAF Main Thread] TestsExecutor.invokeMethods():1252 - Entering into invokeMethods() parameters[index, isReuse] values [8, false]
+10May2019 18:16:41.449 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : CSV_Files, File: Opening_Browser.csv
+10May2019 18:16:41.449 [iAF Main Thread] HtmlReporter.createLogsFooter():488 - Enter params(Fri May 10 18:16:15 IST 2019, Fri May 10 18:16:41 IST 2019)
+10May2019 18:16:41.450 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(26023)
+10May2019 18:16:41.450 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:16:41.450 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:16:41.451 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:16:41.466 [iAF Main Thread] HtmlReporter.createLogsFooter():543 - Exit
+10May2019 18:16:41.466 [iAF Main Thread] ReporterImpl.setStaticFields():135 - Enter
+10May2019 18:16:41.467 [iAF Main Thread] HtmlReporter.setStaticFields():547 - Enter params(html setStaticFields=======>passed :Fri May 10 18:16:15 IST 2019 :Fri May 10 18:16:41 IST 2019 :0)
+10May2019 18:16:41.467 [iAF Main Thread] HtmlReporter.setStaticFields():570 - Exit
+10May2019 18:16:41.467 [iAF Main Thread] TestsExecutor.executeTestCase():1245 - Exit
+10May2019 18:16:41.467 [iAF Main Thread] TestsExecutor.initiateExecution():783 - Exit
+10May2019 18:16:41.467 [iAF Main Thread] iAF_Controller.updateExeStatusAfter():994 - Enter
+10May2019 18:16:41.467 [iAF Main Thread] iAF_Controller.updateExeStatusAfter():1005 - Exit
+10May2019 18:16:41.467 [iAF Main Thread] SpawnThreads.startSequentialExecution():197 - Exit
+10May2019 18:16:41.467 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1022 - Enter params(1, 0)
+10May2019 18:16:41.468 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+10May2019 18:16:41.468 [JavaFX Application Thread] iAF_Controller.getStatusMsg():1028 - Exit
+10May2019 18:16:41.468 [iAF Main Thread] HtmlReporter.createExecutionReports():617 - Enter params(Fri May 10 18:16:15 IST 2019, Fri May 10 18:16:41 IST 2019)
+10May2019 18:16:41.468 [iAF Main Thread] JSReporter.pieChartWriter():232 - Enter
+10May2019 18:16:41.485 [iAF Main Thread] JSReporter.pieChartWriter():264 - Exit
+10May2019 18:16:41.494 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(26023)
+10May2019 18:16:41.494 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:16:41.495 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(26063)
+10May2019 18:16:41.495 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:16:41.496 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:16:41.496 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:16:41.517 [iAF Main Thread] HtmlReporter.createExecutionReports():822 - Exit
+10May2019 18:16:41.517 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():826 - Enter
+10May2019 18:16:41.561 [iAF Main Thread] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+10May2019 18:16:41.561 [iAF Main Thread] HtmlReporter.getPercentages():1207 - Exit
+10May2019 18:16:41.638 [iAF Main Thread] HtmlReporter.getPercentages():1160 - Enter params(Passed value :0 Failed value : 1 Skipped value :0 Stopped Value :0)
+10May2019 18:16:41.639 [iAF Main Thread] HtmlReporter.getPercentages():1207 - Exit
+10May2019 18:16:41.639 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:16:41.640 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:16:41.671 [iAF Main Thread] JSReporter.barChartWriter():269 - Enter
+10May2019 18:16:41.676 [iAF Main Thread] JSReporter.barChartWriter():513 - Exit
+10May2019 18:16:41.677 [iAF Main Thread] HtmlReporter.updateReportsPropertiesFile():1211 - Enter
+10May2019 18:16:41.680 [iAF Main Thread] HtmlReporter.updateReportsPropertiesFile():1266 - Exit
+10May2019 18:16:41.680 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+10May2019 18:16:41.680 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1271 - Enter
+10May2019 18:16:41.681 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1278 - Passed testcase list: Opening_Browser.csv[CSV_Files\Opening_Browser.csv]; 
+10May2019 18:16:41.681 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1284 - Failed testcase list:
+10May2019 18:16:41.681 [iAF Main Thread] HtmlReporter.totalExecutionSummary():1285 - Exit
+10May2019 18:16:41.681 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1156 - Exit
+10May2019 18:16:41.681 [iAF Main Thread] HtmlReporter.createDashboard():1289 - Enter params(Fri May 10 18:16:15 IST 2019, Fri May 10 18:16:41 IST 2019)
+10May2019 18:16:41.684 [iAF Main Thread] HtmlReporter.getPercentages():1160 - Enter params(Passed value :1 Failed value : 0 Skipped value :0 Stopped Value :0)
+10May2019 18:16:41.684 [iAF Main Thread] HtmlReporter.getPercentages():1207 - Exit
+10May2019 18:16:41.685 [iAF Main Thread] HtmlReporter.getExecutionTime():594 - Enter params(26063)
+10May2019 18:16:41.685 [iAF Main Thread] HtmlReporter.getExecutionTime():611 - Exit
+10May2019 18:16:41.685 [iAF Main Thread] HtmlReporter.writeFooter():574 - Enter
+10May2019 18:16:41.686 [iAF Main Thread] HtmlReporter.writeFooter():589 - Exit
+10May2019 18:16:41.686 [iAF Main Thread] HtmlReporter.createDashboard():1390 - Exit
+10May2019 18:16:41.686 [iAF Main Thread] HtmlReporter.clearFields():122 - Enter
+10May2019 18:16:41.686 [iAF Main Thread] HtmlReporter.clearFields():167 - Exit
+10May2019 18:16:41.686 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+10May2019 18:16:41.691 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+10May2019 18:16:41.691 [iAF Main Thread] SpawnThreads.initiateWebDriversCleanUp():593 - Enter
+10May2019 18:16:41.691 [iAF Main Thread] TestsExecutor.initiateWebDriverCleanUp():3137 - Enter
+10May2019 18:16:41.692 [iAF Main Thread] WebLibrary.quitBrowserCleanUp():3026 - Enter
+10May2019 18:16:42.358 [iAF Main Thread] WebLibrary.quitBrowserCleanUp():3033 - Exit
+10May2019 18:16:42.359 [iAF Main Thread] TestsExecutor.initiateWebDriverCleanUp():3155 - Exit
+10May2019 18:16:42.359 [iAF Main Thread] SpawnThreads.initiateWebDriversCleanUp():602 - Exit
+10May2019 18:16:42.359 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...
+10May2019 18:16:42.359 [iAF Main Thread] SpawnThreads.startExecution():179 - Exit
+10May2019 18:16:42.360 [iAF Main Thread] iAF_Controller.enableBtnsOnExecution():3997 - Enter
+10May2019 18:16:42.360 [iAF Main Thread] TCEditorTabController.enableBtnsOnExecution():2106 - Enter
+10May2019 18:16:42.360 [iAF Main Thread] TCEditorTabController.enableBtnsOnExecution():2134 - Exit
+10May2019 18:16:42.360 [JavaFX Application Thread] TCEditorTabController.initialize():252 - Enter
+10May2019 18:16:42.360 [iAF Main Thread] iAF_Controller.enableBtnsOnExecution():4005 - Exit
+10May2019 18:16:42.360 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():213 - Enter
+10May2019 18:16:42.370 [JavaFX Application Thread] TCEditorTabController.setToolBarIcons():239 - Exit
+10May2019 18:16:42.370 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():243 - Enter
+10May2019 18:16:42.370 [JavaFX Application Thread] TCEditorTabController.initializeAtionChoice():247 - Exit
+10May2019 18:16:42.370 [JavaFX Application Thread] TCEditorTabController.initialize():949 - Exit
+10May2019 18:17:01.116 [JavaFX Application Thread] iAF_Controller.batchCreationCheckboxActionPerformed():676 - Enter
+10May2019 18:17:01.116 [JavaFX Application Thread] iAF_Controller.createBatchFile():3329 - Enter
+10May2019 18:17:01.117 [JavaFX Application Thread] iAF_Controller.getSelectedSheets():2926 - Enter
+10May2019 18:17:01.117 [JavaFX Application Thread] iAF_Controller.getSelectedSheets():2937 - Exit
+10May2019 18:17:01.117 [JavaFX Application Thread] iAF_Controller.getBatchFileName():3355 - Enter
+10May2019 18:17:07.622 [JavaFX Application Thread] iAF_Controller.checkFileExists():3401 - Enter params(Omk.bat)
+10May2019 18:17:07.622 [JavaFX Application Thread] iAF_Controller.checkFileExists():3408 - Exit from checkFileExists()
+10May2019 18:17:07.623 [JavaFX Application Thread] iAF_Controller.getBatchFileName():3392 - Exit
+10May2019 18:17:07.623 [JavaFX Application Thread] iAF_Controller.writeToBatchFile():3269 - Enter params(filename-Omk.bat)
+10May2019 18:17:07.625 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.625 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.625 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.626 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.626 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.626 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.626 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.626 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.627 [JavaFX Application Thread] iAF_Controller.loadSelectedSheets1():3171 - Enter
+10May2019 18:17:07.640 [JavaFX Application Thread] iAF_Controller.writeToBatchFile():3314 - Exit
+10May2019 18:17:07.640 [JavaFX Application Thread] iAF_Controller.createBatchFile():3347 - Exit
+10May2019 18:17:07.640 [JavaFX Application Thread] iAF_Controller.initialize():1099 - Enter
+10May2019 18:17:07.640 [JavaFX Application Thread] iAF_Controller.initialize():1177 - Integrated Automation Framework (iAF) Launched...
+10May2019 18:17:07.690 [JavaFX Application Thread] iAF_Controller.initialSetup():1252 - Enter
+10May2019 18:17:07.690 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1059 - Enter
+10May2019 18:17:07.691 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1085 - Enter
+10May2019 18:17:07.693 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+10May2019 18:17:07.693 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+10May2019 18:17:07.694 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+10May2019 18:17:07.695 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+10May2019 18:17:07.696 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:17:07.697 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+10May2019 18:17:07.697 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+10May2019 18:17:07.697 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:17:07.764 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:17:07.765 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:17:07.771 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:17:07.771 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:17:07.782 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:17:07.782 [JavaFX Application Thread] iAF_Controller.setTreeview():2442 - Enter
+10May2019 18:17:07.815 [JavaFX Application Thread] iAF_Controller.setTreeview():2765 - Exit
+10May2019 18:17:07.815 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():2968 - Enter
+10May2019 18:17:07.816 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3079 - Exit
+10May2019 18:17:07.817 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1039 - Enter
+10May2019 18:17:07.817 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1044 - Exit
+10May2019 18:17:07.818 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1637 - Enter
+10May2019 18:17:07.822 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1706 - Exit
+10May2019 18:17:07.823 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2882 - Enter
+10May2019 18:17:07.828 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2916 - Exit
+10May2019 18:17:07.829 [JavaFX Application Thread] iAF_Controller.initialSetup():1361 - Exit
+10May2019 18:17:07.829 [JavaFX Application Thread] iAF_Controller.initialize():1188 - Exit
+10May2019 18:17:07.829 [JavaFX Application Thread] iAF_Controller.batchCreationCheckboxActionPerformed():680 - Exit
+10May2019 18:42:56.748 [JavaFX Application Thread] iAF_Controller.closeAction():859 - Enter
+10May2019 18:42:56.748 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3555 - Enter
+10May2019 18:42:56.748 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3584 - Exit

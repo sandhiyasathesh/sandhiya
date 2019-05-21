@@ -1,0 +1,31 @@
+10May2019 18:16:15.398 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+10May2019 18:16:15.405 [iAF Main Thread] SpawnThreads.loadClasses():550 - Failed to load class :  , java.base/jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to java.base/java.net.URLClassLoader
+10May2019 18:16:15.408 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : Opening_Browser.csv[CSV_Files] 
+10May2019 18:16:15.416 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : Opening_Browser.csv[CSV_Files], isReusable : false 
+10May2019 18:16:15.441 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, open, chrome, https://en.wikipedia.org/wiki/Main_Page, "Opening 'browser, 'chrome"] 
+10May2019 18:16:15.444 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+10May2019 18:16:27.035 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [2, sleep, , 5000, waiting for 5 second] 
+10May2019 18:16:27.039 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:16:32.046 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [3, getScreenshot, , , ] 
+10May2019 18:16:32.049 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : getScreenshot
+10May2019 18:16:32.679 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [data, LoadSingleTestData, TestDataSheet.Data_Login, 1, ] 
+10May2019 18:16:32.680 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():1996 - parameters[locator, value, currentStep] values [TestDataSheet.Data_Login, 1, data] 
+10May2019 18:16:32.682 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_Unique_ID = 1
+10May2019 18:16:32.695 [iAF Main Thread] TestsExecutor.LoadSingleTestDataForCSV():2028 - property V_data_UserName = Techmahindra
+10May2019 18:16:32.699 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [4, type, ${Rajkumar.Search_Text}, {V_data_UserName}, ] 
+10May2019 18:16:32.700 [iAF Main Thread] TestsExecutor.Env_file_Read():3028 - The Value for the property V_data_UserName is :Techmahindra
+10May2019 18:16:32.701 [iAF Main Thread] TestsExecutor.getObjectFromObjectRepository():1824 - locator : ${Rajkumar.Search_Text} 
+10May2019 18:16:32.707 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : type
+10May2019 18:16:34.058 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [5, click, name=go, , ] 
+10May2019 18:16:34.062 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : click
+10May2019 18:16:35.781 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [6, sleep, , 5000, wait for 5 seconds] 
+10May2019 18:16:35.785 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : sleep
+10May2019 18:16:40.792 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [7, closeBrowser, , , ] 
+10May2019 18:16:40.796 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : closeBrowser
+10May2019 18:16:41.448 [iAF Main Thread] WebLibrary.closeBrowser():3009 - Browser chrome Close Succesful
+10May2019 18:16:41.449 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : CSV_Files, File: Opening_Browser.csv
+10May2019 18:16:41.468 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+10May2019 18:16:41.680 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+10May2019 18:16:41.686 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+10May2019 18:16:41.691 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+10May2019 18:16:42.359 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

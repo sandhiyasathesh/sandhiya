@@ -1,0 +1,7 @@
+1,open,chrome,https://en.wikipedia.org/wiki/Main_Page,,Opening browser chrome
+2,sleep,,5000,,Wait for 5 second
+3,getScreenShot,,,,
+4,type,id=searchInput,Tech Mahindra,,
+5,click,name=go,,,
+6,sleep,,5000,,waitfor 5 seconds
+7,closeBrowser,,,,

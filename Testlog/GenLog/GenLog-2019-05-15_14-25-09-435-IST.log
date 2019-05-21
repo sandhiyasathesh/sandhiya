@@ -1,0 +1,18 @@
+15May2019 14:25:09.440 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 14:25:09.441 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa] 
+15May2019 14:25:09.441 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa], isReusable : false 
+15May2019 14:25:09.446 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, var, x, "hi hello", ] 
+15May2019 14:25:09.447 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : var
+15May2019 14:25:09.553 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, camelCaseConversion, , {x}, ] 
+15May2019 14:25:09.554 [iAF Main Thread] TestsExecutor.Env_file_Read():3080 - The Value for the property x is :hi hello
+15May2019 14:25:09.555 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : camelCaseConversion
+15May2019 14:25:09.559 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, printMessage, , {V_!}, ] 
+15May2019 14:25:09.559 [iAF Main Thread] TestsExecutor.Env_file_Read():3062 -  "V_!" property is not defined in D:\Logitech_Jar_new\Logitech_Magix_1\TestArtefacts\EnvironmentDetails.properties
+15May2019 14:25:09.559 [iAF Main Thread] TestsExecutor.Env_file_Read():3066 - ERROR : Cannot find value for Property :'V_!'
+15May2019 14:25:09.560 [iAF Main Thread] TestsExecutor.invokeMethods():1357 - Error in interpreting variables in the braces {} in Value column: "{V_!}"
+15May2019 14:25:09.561 [iAF Main Thread] TestsExecutor.executeTestCase():1220 - Test status is failed for Folder : aaaaaaa/aaaaaaaa, File: bbbbbbbbb.csv
+15May2019 14:25:09.561 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 14:25:09.619 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 14:25:09.620 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 14:25:09.620 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 14:25:09.620 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

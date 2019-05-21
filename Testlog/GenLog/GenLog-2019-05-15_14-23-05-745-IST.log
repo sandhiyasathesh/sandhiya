@@ -1,0 +1,16 @@
+15May2019 14:23:05.756 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 14:23:05.789 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : aaaaaaaaa.csv[aaaaaaa/aaaaaaaa] 
+15May2019 14:23:05.789 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : aaaaaaaaa.csv[aaaaaaa/aaaaaaaa], isReusable : false 
+15May2019 14:23:06.737 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, open, chrome, http://www.google.com, ] 
+15May2019 14:23:06.742 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+15May2019 14:23:15.813 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, typeAndEnter, name=q, Techmahindra, ] 
+15May2019 14:23:15.815 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : typeAndEnter
+15May2019 14:23:17.434 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, closeBrowser, , , ] 
+15May2019 14:23:17.436 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : closeBrowser
+15May2019 14:23:19.753 [iAF Main Thread] WebLibrary.closeBrowser():3849 - Browser Close Successful
+15May2019 14:23:19.753 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : aaaaaaa/aaaaaaaa, File: aaaaaaaaa.csv
+15May2019 14:23:19.756 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 14:23:19.892 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 14:23:19.893 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 14:23:19.894 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 14:23:20.410 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

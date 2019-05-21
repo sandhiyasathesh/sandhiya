@@ -1,0 +1,13 @@
+15May2019 19:12:08.611 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 19:12:08.623 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : Test1.csv[Test] 
+15May2019 19:12:08.623 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : Test1.csv[Test], isReusable : false 
+15May2019 19:12:10.109 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, open, chrome, http://www.logitechg.com, ] 
+15May2019 19:12:10.122 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : open
+15May2019 19:12:27.783 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, waitForPageLoad, , 20, ] 
+15May2019 19:12:27.788 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : waitForPageLoad
+15May2019 19:12:30.832 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : Test, File: Test1.csv
+15May2019 19:12:30.834 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 19:12:31.138 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 19:12:31.140 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 19:12:31.140 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 19:12:31.935 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

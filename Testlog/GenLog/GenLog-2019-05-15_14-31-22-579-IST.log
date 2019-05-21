@@ -1,0 +1,15 @@
+15May2019 14:31:22.583 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 14:31:22.584 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa] 
+15May2019 14:31:22.584 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa], isReusable : false 
+15May2019 14:31:22.587 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [count, rest_getXMLNodeCount, //category[@id="Gaming Mice"]/product, D:RESTRESPONSE.xml, ] 
+15May2019 14:31:22.588 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : getXMLNodeCount
+15May2019 14:31:22.609 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, printMessage, , {V_count}, ] 
+15May2019 14:31:22.609 [iAF Main Thread] TestsExecutor.Env_file_Read():3062 -  "V_count" property is not defined in D:\Logitech_Jar_new\Logitech_Magix_1\TestArtefacts\EnvironmentDetails.properties
+15May2019 14:31:22.609 [iAF Main Thread] TestsExecutor.Env_file_Read():3066 - ERROR : Cannot find value for Property :'V_count'
+15May2019 14:31:22.610 [iAF Main Thread] TestsExecutor.invokeMethods():1357 - Error in interpreting variables in the braces {} in Value column: "{V_count}"
+15May2019 14:31:22.610 [iAF Main Thread] TestsExecutor.executeTestCase():1220 - Test status is failed for Folder : aaaaaaa/aaaaaaaa, File: bbbbbbbbb.csv
+15May2019 14:31:22.611 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 14:31:22.649 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 14:31:22.650 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 14:31:22.651 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 14:31:22.651 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...

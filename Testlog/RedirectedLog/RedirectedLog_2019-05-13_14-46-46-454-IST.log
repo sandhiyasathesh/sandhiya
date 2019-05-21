@@ -1,0 +1,43 @@
+13May2019 14:46:46.467 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1109 - Enter
+13May2019 14:46:46.469 [JavaFX Application Thread] iAF_Controller.createTestEnvironment():1135 - Enter
+13May2019 14:46:46.471 [JavaFX Application Thread] UserProperties.readPropertiesFile():184 - Enter
+13May2019 14:46:46.472 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():217 - Enter params(Entering into method readKeywordDrivenPropertiesFile())
+13May2019 14:46:46.474 [JavaFX Application Thread] UserProperties.readKeywordDrivenPropertiesFile():537 - Exit with(Exit from method readKeywordDrivenPropertiesFile())
+13May2019 14:46:46.475 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():573 - Enter params(Entering into method readTestManagementPropertiesFile())
+13May2019 14:46:46.495 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():659 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+13May2019 14:46:46.496 [JavaFX Application Thread] UserProperties.readTestManagementPropertiesFile():669 - Exit with(Exit from method readTestManagementPropertiesFile())
+13May2019 14:46:46.497 [JavaFX Application Thread] UserProperties.readPropertiesFile():187 - Exit
+13May2019 14:46:46.497 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:46.610 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:46.611 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:46.617 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:46.618 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:46.631 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:46.632 [JavaFX Application Thread] iAF_Controller.setTreeview():2493 - Enter
+13May2019 14:46:46.651 [JavaFX Application Thread] iAF_Controller.setTreeview():2816 - Exit
+13May2019 14:46:46.651 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3019 - Enter
+13May2019 14:46:46.653 [JavaFX Application Thread] iAF_Controller.setConfigTreeView():3130 - Exit
+13May2019 14:46:46.654 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1089 - Enter
+13May2019 14:46:46.656 [JavaFX Application Thread] iAF_Controller.setParallelComboxBox():1094 - Exit
+13May2019 14:46:46.658 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1688 - Enter
+13May2019 14:46:46.659 [JavaFX Application Thread] iAF_Controller.setEnvironmentDetailsToCombobox():1757 - Exit
+13May2019 14:46:46.659 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2933 - Enter
+13May2019 14:46:46.669 [JavaFX Application Thread] iAF_Controller.setToolBarIcons():2967 - Exit
+13May2019 14:46:46.669 [JavaFX Application Thread] iAF_Controller.initialSetup():1412 - Exit
+13May2019 14:46:46.670 [JavaFX Application Thread] iAF_Controller.initialize():1238 - Exit
+13May2019 14:46:46.671 [JavaFX Application Thread] iAF_Controller.batchCreationCheckboxActionPerformed():730 - Exit
+13May2019 15:04:33.886 [JavaFX Application Thread] TestDataEditorTabController.initialize():198 - Enter
+13May2019 15:04:33.887 [JavaFX Application Thread] TestDataEditorTabController.setToolBarIcons():153 - Enter
+13May2019 15:04:33.914 [JavaFX Application Thread] TestDataEditorTabController.setToolBarIcons():171 - Exit
+13May2019 15:04:33.917 [JavaFX Application Thread] TestDataEditorTabController.initialize():558 - Exit
+13May2019 15:04:33.917 [JavaFX Application Thread] TestDataEditorTabController.showTabData():570 - Enter params(Directory path :C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData Workbook name : TestDataSheet Sheet name : Data_Login.csv)
+13May2019 15:04:33.917 [JavaFX Application Thread] TestDataEditorTabController.updateTabData():594 - Enter
+13May2019 15:04:34.006 [JavaFX Application Thread] TestDataEditorTabController.updateDataMgr():1317 - Enter
+13May2019 15:04:34.006 [JavaFX Application Thread] iAF_Controller.createDirtyTab():2432 - Enter params(Data_Login.csv, TestDataSheet, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData)
+13May2019 15:04:34.007 [JavaFX Application Thread] TestDataEditorTabController.updateDataMgr():1329 - Exit
+13May2019 15:04:34.007 [JavaFX Application Thread] iAF_Controller.clearDirtyTab():2458 - Enter params(Data_Login.csv, TestDataSheet, C:\Users\RK00358314\Desktop\Temp\TestArtefacts\TestData)
+13May2019 15:04:34.007 [JavaFX Application Thread] TestDataEditorTabController.updateTabData():773 - Exit
+13May2019 15:04:34.008 [JavaFX Application Thread] TestDataEditorTabController.showTabData():589 - Exit
+13May2019 15:54:59.558 [JavaFX Application Thread] iAF_Controller.closeAction():909 - Enter
+13May2019 15:54:59.559 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3604 - Enter
+13May2019 15:54:59.559 [JavaFX Application Thread] iAF_Controller.validateSaveChanges():3633 - Exit

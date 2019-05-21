@@ -1,0 +1,17 @@
+15May2019 14:25:31.097 [iAF Main Thread] UserProperties.readTestManagementPropertiesFile():674 - Quality Center UpdateResults is either not specified or is false, Results will not be updated
+15May2019 14:25:31.097 [iAF Main Thread] TestsExecutor.initiateExecution():726 - testCase : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa] 
+15May2019 14:25:31.098 [iAF Main Thread] TestsExecutor.validateCSVFile():169 - testCasePath : bbbbbbbbb.csv[aaaaaaa/aaaaaaaa], isReusable : false 
+15May2019 14:25:31.101 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, var, x, "hi hello", ] 
+15May2019 14:25:31.102 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : var
+15May2019 14:25:31.109 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [1, camelCaseConversion, , {x}, ] 
+15May2019 14:25:31.110 [iAF Main Thread] TestsExecutor.Env_file_Read():3080 - The Value for the property x is :hi hello
+15May2019 14:25:31.125 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : camelCaseConversion
+15May2019 14:25:31.128 [iAF Main Thread] TestsExecutor.invokeMethods():1266 - Executing action[step, action, locator, value, comment] values [, printMessage, , {V_1}, ] 
+15May2019 14:25:31.129 [iAF Main Thread] TestsExecutor.Env_file_Read():3080 - The Value for the property V_1 is :Hi Hello
+15May2019 14:25:31.143 [iAF Main Thread] TestsExecutor.invokeMethods():1544 - meth invoke : printMessage
+15May2019 14:25:31.149 [iAF Main Thread] TestsExecutor.executeTestCase():1217 - Test status is passed for Folder : aaaaaaa/aaaaaaaa, File: bbbbbbbbb.csv
+15May2019 14:25:31.171 [iAF Main Thread] SpawnThreads.startExecution():143 - Execution of testcases completed. Reports generation initiated...
+15May2019 14:25:31.246 [iAF Main Thread] HtmlReporter.createCompleteExecutionReports():1143 - Created complete execution report
+15May2019 14:25:31.247 [iAF Main Thread] SpawnThreads.startExecution():155 - Reports generation Completed.
+15May2019 14:25:31.248 [iAF Main Thread] SpawnThreads.startExecution():172 - Cleanup activity initiated...
+15May2019 14:25:31.248 [iAF Main Thread] SpawnThreads.startExecution():178 - Click reports icon on toolbar to view the execution reports...
